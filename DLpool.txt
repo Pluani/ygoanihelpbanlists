@@ -75,9 +75,24 @@ Acrobatic Magician
 Acrobat Monkey
 Action Magic - Double Banking
 Action Magic - Full Turn
+Adamancipator Analyzer
+Adamancipator Crystal - Dragite
+Adamancipator Crystal - Leonite
+Adamancipator Crystal - Raptite
+Adamancipator Friends
+Adamancipator Laputite
+Adamancipator Relief
+Adamancipator Researcher
+Adamancipator Resonance
+Adamancipator Risen - Dragite
+Adamancipator Risen - Leonite
+Adamancipator Risen - Raptite
+Adamancipator Seeker
+Adamancipator Signs
 A Deal with Dark Ruler
 Adhesion Trap Hole
 Adhesive Explosive
+Ad Libitum of Despia
 Adreus, Keeper of Armageddon
 Advanced Dark
 Advanced Heraldry Art
@@ -198,6 +213,7 @@ Altergeist Pookuery
 Altergeist Primebanshee
 Altergeist Silquitous
 Altitude Knight
+Aluber the Jester of Despia
 Amabear Lilith
 Amabie
 A Major Upset
@@ -213,10 +229,12 @@ Amaze Attraction Rapid Racing
 Amaze Attraction Thrill Train
 Amaze Attraction Viking Vortex
 Amaze Attraction Wonder Wheel
+Amazement Abomination Arlekino
 Amazement Administrator Arlekino
 Amazement Ambassador Bufo
 Amazement Assistant Delia
 Amazement Attendant Comica
+Amazement Family Faces
 Amazement Precious Park
 Amazement Special Show
 Amazing Time Ticket
@@ -263,6 +281,7 @@ Anarchist Monk Ranshin
 Anchamoufrite
 Ancient Arise Dragon
 Ancient Brain
+Ancient Chant
 Ancient Crimson Ape
 Ancient Dragon
 Ancient Elf
@@ -786,6 +805,7 @@ Bending Destiny
 Bendorbreak the Conqueror
 Benghalancer the Resurgent
 Berfomet
+Berfomet the Mythical King of Phantom Beasts
 Berlineth the Firestorm Vassal
 Berry Bassist
 Berry Magician Girl
@@ -804,6 +824,7 @@ Bickuribox
 Bicorn Re'em
 Bicular
 Big-Tusked Mammoth
+Big-Winged Berfomet
 Big Bang Shot
 Big Belly Knight
 Big Burn
@@ -933,6 +954,7 @@ Blade Rabbit
 Blade Skater
 Blades of Divine Wind
 Blast Asmodian
+Blaster, Dragon Ruler of Infernos
 Blast Examiner
 Blast Held by a Tribute
 Blasting Bird
@@ -944,6 +966,7 @@ Blast Magician
 Blast Sphere
 Blast with Chain
 Blaze Accelerator
+Blaze Cannon
 Blaze Fenix, the Burning Bombardment Bird
 Blazewing Butterfly
 Blazing Hiita
@@ -1070,7 +1093,10 @@ Brain Research Lab
 Brainwashing Beam
 Branch!
 Branded Bond
+Branded in High Spirits
+Branded in Red
 Branded in White
+Branded Opening
 Bravedrive
 Brave Scizzar
 Bravo, Fighter Fur Hire
@@ -1187,6 +1213,7 @@ Burden of the Mighty
 Burgeoning Whirlflame
 Burglar
 Burial from a Different Dimension
+Burner, Dragon Ruler of Sparks
 Burning Algae
 Burning Beast
 Burning Blaze Dragon
@@ -1270,6 +1297,7 @@ Card Trooper
 Carpendra
 Carpiponica, Mystical Beast of the Forest
 Carrierroid
+Cartorhyn the Hidden Gem of the Seafront
 Cash Back
 Cassimolar
 Castel, the Skyblaster Musketeer
@@ -1382,9 +1410,12 @@ Cherry Inmato
 Chevalier de Fleur
 Chewbone
 Child's Play
+Chimera Fusion
 Chimeratech Overdragon
 Chimeratech Rampage Dragon
 Chimera the Flying Mythical Beast
+Chimera the Illusion Beast
+Chimera the King of Phantom Beasts
 Chiron the Mage
 Chirubimé, Princess of Autumn Leaves
 Chivalry
@@ -1606,6 +1637,7 @@ Core Overclock
 Core Reinforcement
 Core Transport Unit
 Corktrooper
+Cornfield Coatl
 Corroding Shark
 Corruption Cell "A"
 Cosmic Compass
@@ -2241,6 +2273,11 @@ Des Mosquito
 Despair from the Dark
 Desperado Barrel Dragon
 Desperate Tag
+Despia, Theater of the Branded
+Despian Comedy
+Despian Proskenion
+Despian Quaeritis
+Despian Tragedy
 Desrook Archfiend
 Destined Rivals
 Destiny Draw
@@ -2439,6 +2476,7 @@ Dogmatika Encounter
 Dogmatika Fleurdelis, the Knighted
 Dogmatika Genesis
 Dogmatikalamity
+Dogmatikamacabre
 Dogmatika Maximus
 Dogmatika Nation
 Dogmatika Nexus
@@ -2631,6 +2669,7 @@ Dragunity Senatus
 Dragunity Tribus
 Draining Shield
 Dramatic Rescue
+Dramaturge of Despia
 Draw Muscle
 Draw Sense: High-Level
 Draw Sense: LIGHT
@@ -2747,6 +2786,7 @@ Edge of the Ring
 Effect Veiler
 Ego Boost
 Egotistical Ape
+Egyptian God Slime
 Ehren, Lightsworn Monk
 Ehther the Heavenly Monarch
 Eidos the Underworld Squire
@@ -3556,6 +3596,7 @@ Galactic Spiral Dragon
 Galatea, the Orcust Automaton
 Galaxy-Eyes Cipher Blade Dragon
 Galaxy-Eyes Cipher Dragon
+Galaxy-Eyes Cipher X Dragon
 Galaxy-Eyes Cloudragon
 Galaxy-Eyes Full Armor Photon Dragon
 Galaxy-Eyes Photon Dragon
@@ -3583,8 +3624,8 @@ Galloping Gaia
 Gamble
 Gambler of Legend
 Gamma The Electromagnet Warrior
-Gamma the Magnet Warrior
 Gamma The Magnet Warrior
+Gamma the Magnet Warrior
 Gamushara
 Ganbara Knight
 Ganbara Lancer
@@ -3618,6 +3659,7 @@ Gatling Dragon
 Gauntlet Launcher
 Gauntlet Warrior
 Gazelle the King of Mythical Beasts
+Gazelle the King of Mythical Claws
 Gazer Shark
 Gearbreed
 Gearfried the Iron Knight
@@ -3791,8 +3833,8 @@ Giant Turtle Who Feeds on Flames
 Giftarist
 Gift Exchange
 Gift of the Martyr
-Gift of The Mystical Elf
 Gift of the Mystical Elf
+Gift of The Mystical Elf
 Giga-Tech Wolf
 Giga Gagagigo
 Gigantes
@@ -3960,6 +4002,7 @@ Gold Sarcophagus
 Golem Dragon
 Golem Sentry
 Golgoil
+Golgoil the Steel Seismic Smasher
 Gonogo
 Good & Evil in the Burning Abyss
 Good Goblin Housekeeping
@@ -4768,6 +4811,7 @@ Jointech Stegosilos
 Jointech Tosceratops
 Joker's Straight
 Jolt Counter
+Jongleur-Ghoul Illusionist
 Jormungardr the Nordic Serpent
 Jowls of Dark Demise
 Judge Man
@@ -4775,6 +4819,7 @@ Judge of the Ice Barrier
 Judgment, the Dragon of Heaven
 Judgment Dragon
 Judgment of Anubis
+Judgment of the Branded
 Judgment of the Desert
 Judgment of Thunder
 Jumbo Drill
@@ -4944,6 +4989,7 @@ Koa'ki Meiru Boulder
 Koa'ki Meiru Crusader
 Koa'ki Meiru Ghoulungulate
 Koa'ki Meiru Gravirose
+Koa'ki Meiru Guardian
 Koa'ki Meiru Hydro Barrier
 Koa'ki Meiru Ice
 Koa'ki Meiru Initialize!
@@ -4955,6 +5001,7 @@ Koa'ki Meiru Sandman
 Koa'ki Meiru Sea Panther
 Koa'ki Meiru Shield
 Koa'ki Meiru Speeder
+Koa'ki Meiru Supplier
 Koa'ki Meiru Urnight
 Koa'ki Meiru Valafar
 Koa'ki Meiru Wall
@@ -5603,6 +5650,7 @@ Master Monk
 Master of Oz
 Master of the Flaming Dragonswords
 Master Pendulum, the Dracoslayer
+Master Tao the Chanter
 Master with Eyes of Blue
 Mataza the Zapper
 Mathmech Addition
@@ -5867,6 +5915,7 @@ Miraculous Descent
 Miraculous Rebirth
 Mirage Dragon
 Mirage Knight
+Mirage Mirror Force
 Mirage Tube
 Mira the Star-Bearer
 Mirror Force
@@ -5878,6 +5927,7 @@ Mirror of Oaths
 Mirror of the Ice Barrier
 Mirror of Yata
 Mirror Resonator
+Mirror Swordknight
 Mirror Wall
 Miscellaneousaurus
 Mischief of the Gnomes
@@ -6196,7 +6246,9 @@ Night Before the Big March
 Night Express Knight
 Night Flight
 Night Lizard
+Nightmare Apprentice
 Nightmare Horse
+Nightmare Magician
 Nightmare Penguin
 Nightmare Scorpion
 Nightmare Wheel
@@ -7434,6 +7486,7 @@ Robot Buster Destruction Sword
 Robotic Knight
 Roboyarou
 Roc from the Valley of Haze
+Rock Band Xenoguitar
 Rock Bombardment
 Rocket Arrow Express
 Rocket Hand
@@ -7678,6 +7731,7 @@ Scrapstorm
 Scrap Twin Dragon
 Scrap Worm
 Scrapyard
+Screams of the Branded
 Screw Armadillo
 Scroll of Bewitchment
 Scrounging Goblin
@@ -8027,6 +8081,7 @@ Sky Striker Mecha - Widow Anchor
 Sky Striker Mecha Modules - Multirole
 Sky Striker Mecharmory - Hercules Base
 Sky Striker Mobilize - Engage!
+Sky Striker Mobilize - Linkage!
 Slate Warrior
 Sleeping Lion
 Slifer the Sky Dragon
@@ -8603,9 +8658,11 @@ Supreme King's Castle
 Supreme Machine Magnum Overlord
 Supreme Machine Magnum Overlord [L]
 Supreme Machine Magnum Overlord [R]
+Supreme Sea Mare
 Supreme Sovereign Serpent of Golgonda
 Surface
 Surge Bolt Lizard
+Surgical Striker - H.A.M.P.
 Survival's End
 Survival Instinct
 Survival of the Fittest
@@ -8742,6 +8799,7 @@ Talismanic Seal Array
 Talisman of Spell Sealing
 Talisman of Trap Sealing
 Talkback Lancer
+Talons of Shurilane
 Tamabot
 Tamtam the Melodious Diva
 Tang the Noodle Ninja
@@ -9396,6 +9454,7 @@ U.A. Rival Rebounder
 U.A. Signing Deal
 U.A. Stadium
 U.A. Turnover Tactics
+UFOLight
 UFOroid
 UFOroid Fighter
 UFO Turtle
@@ -9815,6 +9874,7 @@ White Night Dragon
 White Night Queen
 White Ninja
 White Potan
+White Relic of Dogmatika
 White Rose Dragon
 White Steed of the Floral Knights
 White Stingray
