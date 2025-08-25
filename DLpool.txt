@@ -157,6 +157,7 @@ Alien Telepath
 Alien Warrior
 Alinsection
 All-Out Attacks
+All-Seeing Harvey
 Alligator's Sword
 Alligator's Sword Dragon
 Allure of Darkness
@@ -1071,6 +1072,7 @@ Borrelsword Dragon
 Boss Rush
 Botanical Girl
 Botanical Lion
+Boton the Music Princess
 Bottom Dweller
 Bottomless Shifting Sand
 Bottomless Trap Hole
@@ -1097,6 +1099,7 @@ Branded in High Spirits
 Branded in Red
 Branded in White
 Branded Opening
+Brassaxophone the Music Princess
 Bravedrive
 Brave Scizzar
 Bravo, Fighter Fur Hire
@@ -1514,6 +1517,7 @@ Cloudian - Storm Dragon
 Cloudian - Turbulence
 Cloudian Squall
 Clown Zombie
+Clubinet the Music Princess
 Cluster Congester
 Coach Captain Bearman
 Coach Goblin
@@ -1876,6 +1880,7 @@ Cyberse Integrator
 Cyberse Magician
 Cyberse Quantum Dragon
 Cyberse Reminder
+Cyber Serpent
 Cyberse Sage
 Cyberse Synchron
 Cyberse White Hat
@@ -1889,6 +1894,7 @@ Cyber Slash Harpie Lady
 Cyber Soldier
 Cyber Soldier of Darkworld
 Cyber Summon Blaster
+Cyber Tactical Dragon
 Cyber Tutu
 Cyber Tutubon
 Cyber Twin Dragon
@@ -2310,6 +2316,7 @@ Destroyersaurus
 Destruction Cyclone
 Destruction Jammer
 Destruction of Destiny
+Destruction of the Universe
 Destruction Punch
 Destruction Ring
 Destruction Sword Memories
@@ -2360,6 +2367,7 @@ Different Dimension Gate
 Different Dimension Ground
 Diffusion Wave-Motion
 Dig Beak
+Digisoon the Music Fiend
 Digital Bug Centibit
 Digital Bug Cocoondenser
 Digital Bug Corebage
@@ -2429,6 +2437,7 @@ Disposable Learner Device
 Dissolverock
 Disturbance Strategy
 Divergence
+Divinebreath the Orchestral Music Fiend
 Divine Dragon - Excelion
 Divine Dragon Apocralyph
 Divine Dragon Aquabizarre
@@ -2592,6 +2601,7 @@ Dragon Horn Hunter
 Dragonic Attack
 Dragonic Demolisher
 Dragon Ice
+Dragonic Geist
 Dragonic Guard
 Dragonic Knight
 Dragonic Pressure
@@ -3375,6 +3385,7 @@ Fluffal Penguin
 Fluffal Rabbit
 Fluffal Sheep
 Fluffal Wings
+Flutomahawk the Music Princess
 Flyfang
 Flying "C"
 Flying Elephant
@@ -4309,6 +4320,8 @@ Heart of the Underdog
 Heat Wave
 Heavenly Bliss
 Heavenly Dragon Circle
+Heavenly Gift
+Heavenly Selection
 Heavy Armored Train Ironwolf
 Heavy Forward
 Heavy Freight Train Derricrane
@@ -4442,6 +4455,7 @@ Homunculus the Alchemic Being
 Honeybot
 Hook the Hidden Knight
 Horn Imp
+Horn Knives the Music Princess
 Horn of Light
 Horn of Olifant
 Horn of the Phantom Beast
@@ -6065,7 +6079,9 @@ Muse-A
 Mushroom Man
 Mushroom Man #2
 Musician King
+Music Princess's Battle Ballet
 Music Princess's Recital
+Music Princess's Whirling Wind
 Mustering of the Dark Scorpions
 Musto, Oracle of Gusto
 Mutant Mindmaster
@@ -6407,6 +6423,7 @@ Numbing Grub in the Ice Barrier
 Numen erat Testudo
 Numeral Hunter
 Numinous Healer
+Nuncharinet the Music Princess
 Nunu, the Ogdoadic Remnant
 Nurse Dragonmaid
 Nutrient Z
@@ -6522,6 +6539,7 @@ Orcustrion
 Ordeal of a Traveler
 Order to Charge
 Order to Smash
+Ordoll the Adorable Star
 Orea, the Sylvan High Arbiter
 Orgoth the Relentless
 Orichalcos Shunoros
@@ -6876,6 +6894,7 @@ Poison of the Old Man
 Poisonous Winds
 Poissonniere de Nouvelles
 Poki Draco
+Poliscoop
 Poly-Chemicritter Dioxogre
 Poly-Chemicritter Hydragon
 Polymerization
@@ -7036,6 +7055,7 @@ Psychic Kappa
 Psychic Lifetrancer
 Psychic Megacyber
 Psychic Nightmare
+Psychicomposition
 Psychic Overload
 Psychic Path
 Psychic Reactor
@@ -8124,8 +8144,8 @@ Solar Ray
 Solar Recharge
 Solar Wind Jammer
 Soldier Dragons
-Soldier Gaia The Fierce Knight
 Soldier Gaia the Fierce Knight
+Soldier Gaia The Fierce Knight
 Solemn Authority
 Solemn Scolding
 Solemn Wishes
@@ -8361,6 +8381,7 @@ Stairway to a Fabled Realm
 Stall Turn
 Stamping Destruction
 Stand In
+Star's Hand Illuminator
 Star Blast
 Star Boy
 Star Changer
@@ -8476,6 +8497,7 @@ Storm Dragon's Return
 Storming Wynn
 Storm Shooter
 Straight Flush
+Straight Pierce
 Strange Traveler
 Strange Wall
 Strategist of the Ice Barrier
@@ -8654,7 +8676,11 @@ Supporter in the Shadows
 Suppression Collider
 Supremacy Berry
 Supreme Arcanite Magician
+Supreme Beasteam Magnum Overlord
+Supreme Beasteam Magnum Overlord [L]
+Supreme Beasteam Magnum Overlord [R]
 Supreme King's Castle
+Supreme Machine Burning Overlord
 Supreme Machine Magnum Overlord
 Supreme Machine Magnum Overlord [L]
 Supreme Machine Magnum Overlord [R]
@@ -9356,6 +9382,7 @@ Tristan, Knight of the Underworld
 Tristegatops
 Trojan Blast
 Trojan Gladiator Beast
+Trombow the Music Princess of Melodic Crown
 Troop Dragon
 Troposphere
 Truckroid
@@ -9363,6 +9390,7 @@ True Draco Apocalypse
 True Draco Heritage
 True King's Return
 True King Agnimazud, the Vanisher
+Trumpetonfa the Music Princess
 Trust Guardian
 Tsuchigumo, the Poisonous Mayakashi
 Tsukahagi, the Poisonous Mayakashi
@@ -9656,12 +9684,14 @@ Vermillion Sparrow
 Versago the Destroyer
 Vertical Landing
 Vessel for the Dragon Cycle
+Vi-FRND
 Vice Berserker
 Vice Dragon
 Vicious Claw
 Victoria
 Victory Viper XX03
 Vic Viper T301
+Vietor the Prevailing Wind
 Vijam the Cubic Seed
 Vile Germs
 Vilepawn Archfiend
