@@ -2562,6 +2562,7 @@ Double Trap Hole
 Double Twin Dragon
 Double Type Rescue
 Doubulldog
+Dovelgus, Generaider Boss of Iron
 Downbeat
 Dr. Frankenderp
 Dr. Red Robe
@@ -2726,6 +2727,7 @@ Dual Coratlus
 Duck Dummy
 DUCKER Mobile Cannon
 Duck Fighter
+Duel Academy
 Duelittle Chimera
 Duke Shade, the Sinister Shadow Lord
 Dummy Golem
@@ -2803,6 +2805,7 @@ Eidos the Underworld Squire
 Eka the Flame Buddy
 Ekibyo Drakmord
 Eldeen
+Elder Entity N'tss
 Elder of the Six Samurai
 Eldign Patrol Ship
 Electric Lizard
@@ -2833,6 +2836,7 @@ Elemental HERO Divine Neos
 Elemental HERO Electrum
 Elemental HERO Escuridao
 Elemental HERO Flame Wingman
+Elemental HERO Flame Wingman - Infernal Rage
 Elemental HERO Flare Neos
 Elemental HERO Flash
 Elemental HERO Gaia
@@ -3491,6 +3495,7 @@ Frightfur Sheep
 Frightfur Tiger
 Frightfur Wolf
 Friller Rabca
+Frodi, Generaider Boss of Swords
 Froggy Forcefield
 Frontier Wiseman
 Frontline Base
@@ -3738,6 +3743,8 @@ Gemini Spark
 Gemini Summoner
 Gemini Trap Hole
 Gene-Warped Warwolf
+Generaider Boss Room
+Generaider Boss Stage
 General Gantala of the Ice Barrier
 General Grunard of the Ice Barrier
 General Raiho of the Ice Barrier
@@ -4293,6 +4300,7 @@ Harpie Oracle
 Harpie Perfumer
 Harpie Queen
 Harpies' Hunting Ground
+Harr, Generaider Boss of Storms
 Harsh Truth
 Harvest Angel of Wisdom
 Hate Buster
@@ -4322,6 +4330,7 @@ Heavenly Bliss
 Heavenly Dragon Circle
 Heavenly Gift
 Heavenly Selection
+Heavenly Zephyr - Miradora
 Heavy Armored Train Ironwolf
 Heavy Forward
 Heavy Freight Train Derricrane
@@ -4334,6 +4343,7 @@ Heavy Starter
 Hebo, Lord of the River
 Hecatrice
 Hedge Guard
+Hela, Generaider Boss of Doom
 Helios - The Primordial Sun
 Helios Duo Megistus
 Heliosphere Dragon
@@ -4826,6 +4836,7 @@ Jointech Tosceratops
 Joker's Straight
 Jolt Counter
 Jongleur-Ghoul Illusionist
+Jormungandr, Generaider Boss of Eternity
 Jormungardr the Nordic Serpent
 Jowls of Dark Demise
 Judge Man
@@ -5085,6 +5096,7 @@ Lady of D.
 Lady of Faith
 Lady of the Lake
 Lady Panther
+Laevatein, Generaider Boss of Shadows
 Lair Wire
 La Jinn the Mystical Genie of the Lamp
 LaLa Li-oon
@@ -5214,6 +5226,7 @@ Light End Dragon
 Lighten the Load
 Lightforce Sword
 Light Laser
+Lightning, Dragon Ruler of Drafts
 Lightning Blade
 Lightning Braver
 Lightning Bringer Spirit
@@ -5296,6 +5309,7 @@ Loki, Lord of the Aesir
 Lonefire Blossom
 Longirsu, the Orcust Orchestrator
 Long Shield Gardna
+Loptr, Shadow of the Generaider Bosses
 Lord British Space Fighter
 Lord Gaia the Fierce Knight
 Lord of D.
@@ -5597,8 +5611,8 @@ Malicevorous Knife
 Malicevorous Spoon
 Mammoth Graveyard
 Man-Eater Bug
-Man-eating Black Shark
 Man-Eating Black Shark
+Man-eating Black Shark
 Man-Eating Plant
 Man-Eating Treasure Chest
 Man-Thro' Tro'
@@ -5614,6 +5628,7 @@ Marauding Captain
 March of the Dark Brigade
 March of the Monarchs
 March Towards Ragnarok
+Mardel, Generaider Boss of Light
 Marina, Princess of Sunflowers
 Marincess Coral Anemone
 Marincess Sea Horse
@@ -6127,6 +6142,21 @@ Mythical Bestiamorph
 Mythical Bestiary
 Mythic Tree Dragon
 Mythic Water Dragon
+Myutant Arsenal
+Myutant Beast
+Myutant Blast
+Myutant Clash
+Myutant Cry
+Myutant Evolution Lab
+Myutant Expansion
+Myutant Fusion
+Myutant GB-88
+Myutant M-05
+Myutant Mist
+Myutant Mutant
+Myutant ST-46
+Myutant Synthesis
+Myutant Ultimus
 Naelshaddoll Ariel
 Nagel's Protection
 Naglfar, Generaider Boss of Fire
@@ -6255,6 +6285,7 @@ NEX
 NEXT
 Next to be Lost
 Nibiru, the Primal Being
+Nidhogg, Generaider Boss of Ice
 Night's End Sorcerer
 Night Assailant
 Night Beam
@@ -6858,6 +6889,7 @@ Piercing Samurai
 Piercing the Darkness
 Pikeru's Circle of Enchantment
 Pikeru's Second Sight
+Pile Armed Dragon
 Pilgrim of the Ice Barrier
 Pilica, Descendant of Gusto
 Pinch Hopper
@@ -8850,6 +8882,7 @@ Telepathic Power
 Teleport
 Tellarknight Ptolemaeus
 Temperance of Prophecy
+Tempest, Dragon Ruler of Storms
 Temple of Skulls
 Temple of the Kings
 Temple of the Mind's Eye
@@ -9596,6 +9629,7 @@ Ursarctic Septentrion
 Ursarctic Slider
 Urubonus, the Avatar of Malice
 Ushi Oni
+Utgarda, Generaider Boss of Delusion
 Utopia Buster
 Utopian Aura
 Utopic Onomatopoeia
@@ -9603,6 +9637,7 @@ V-LAN Hydra
 V-Tiger Jet
 Vahram, the Magistus Divinity Dragon
 Vain Betrayer
+Vala, Seidhr of the Generaider Bosses
 Valerifawn, Mystical Beast of the Forest
 Valhalla, Hall of the Fallen
 Valkyrian Knight
@@ -9801,6 +9836,7 @@ Vylon Tetra
 Vylon Vanguard
 W-Wing Catapult
 Wailing of the Unchained Souls
+Wake Up Your Elemental HERO
 Wall of Disruption
 Wall of Illusion
 Wall of Ivy
