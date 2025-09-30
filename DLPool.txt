@@ -609,6 +609,7 @@ Aurora Draw
 Aurora Paragon
 Aurora Wing
 Aussa the Earth Charmer
+Aussa the Earth Charmer, Immovable
 Autonomous Action Unit
 Autorokket Dragon
 Avalanching Aussa
@@ -1004,11 +1005,13 @@ Blue-Eyed Silver Zombie
 Blue-Eyes Abyss Dragon
 Blue-Eyes Alternative White Dragon
 Blue-Eyes Bright Dragon
+Blue-Eyes Jet Dragon
 Blue-Eyes Shining Dragon
 Blue-Eyes Solid Dragon
 Blue-Eyes Spirit Dragon
 Blue-Eyes Toon Dragon
 Blue-Eyes Twin Burst Dragon
+Blue-Eyes Tyrant Dragon
 Blue-Eyes Ultimate Dragon
 Blue-Eyes White Dragon
 Blue-Fang Burst Dragon
@@ -1095,6 +1098,7 @@ Brain Research Lab
 Brainwashing Beam
 Branch!
 Branded Bond
+Branded Disciple
 Branded in High Spirits
 Branded in Red
 Branded in White
@@ -1576,6 +1580,7 @@ Confiras de Nouvelles
 Confronting the "C"
 Confusion Chaff
 Connector Dog
+Conquistador of the Golden Land
 Conscription
 Consolation Prize
 Constellar Acubens
@@ -1790,6 +1795,7 @@ Cure Mermaid
 Cursed Armaments
 Cursed Bamboo Sword
 Cursed Bill
+Cursed Eldland
 Cursed Fig
 Cursed Seal of the Forbidden Spell
 Curse Necrofear
@@ -2384,6 +2390,7 @@ Dimensional Fissure
 Dimensional Inversion
 Dimensional Prison
 Dimension Azarth
+Dimension Conjurer
 Dimension Distortion
 Dimension Equilibrium
 Dimension Explosion
@@ -2520,6 +2527,7 @@ Doomking Balerdroch
 Doomsday Horror
 Doom Shaman
 Doomstar Magician
+Doomstar Ulka
 Doppelganger
 Doppelwarrior
 Dora of Fate
@@ -2808,6 +2816,11 @@ Eldeen
 Elder Entity N'tss
 Elder of the Six Samurai
 Eldign Patrol Ship
+Eldlich the Golden Lord
+Eldlixir of Black Awakening
+Eldlixir of Scarlet Sanguine
+Eldlixir of White Destiny
+El Dorado Adelantado
 Electric Lizard
 Electric Snake
 Electric Virus
@@ -3092,6 +3105,7 @@ Exosister Elis
 Exosister Gibrine
 Exosister Irene
 Exosister Kaspitell
+Exosister Martha
 Exosister Mikailis
 Exosister Pax
 Exosister Returnia
@@ -3360,6 +3374,7 @@ Flint Cragger
 Flint Lock
 Flint Missile
 Flip Flop Frog
+Flipping Feline
 Flogos, the Ogdoadic Boundless
 Floodgate Trap Hole
 Floral Shield
@@ -3838,6 +3853,7 @@ Giant Germ
 Giant Kozaky
 Giant Mech-Soldier
 Giant Orc
+Giant Pairfish
 Giant Rat
 Giant Red Seasnake
 Giant Rex
@@ -3851,8 +3867,8 @@ Giant Turtle Who Feeds on Flames
 Giftarist
 Gift Exchange
 Gift of the Martyr
-Gift of the Mystical Elf
 Gift of The Mystical Elf
+Gift of the Mystical Elf
 Giga-Tech Wolf
 Giga Gagagigo
 Gigantes
@@ -4013,6 +4029,7 @@ Golden Flying Fish
 Golden Gearbox
 Golden Homunculus
 Golden Ladybug
+Golden Land Forever!
 Golden Rule
 Gold Gadget
 Goldilocks the Battle Landscaper
@@ -4197,6 +4214,7 @@ Guardian Grarl
 Guardian Kay'est
 Guardian of Felgrand
 Guardian of Order
+Guardian of the Golden Land
 Guardian of the Labyrinth
 Guardian of the Throne Room
 Guardian Sphinx
@@ -4487,6 +4505,7 @@ Howlingbird
 Howling Insect
 Howl of the Wild
 HTS Psyhemuth
+Huaquero of the Golden Land
 Huge Revolution
 Human-Wave Tactics
 Humanoid Slime
@@ -4538,6 +4557,15 @@ Ib the World Chalice Priestess
 Ice Beast Zerofyne
 Ice Dragon's Prison
 Ice Hand
+Icejade Acti
+Icejade Aegirine
+Icejade Cenote Enion Cradle
+Icejade Cradle
+Icejade Creation Kingfisher
+Icejade Erosion
+Icejade Kosmochlor
+Icejade Tinola
+Icejade Tremora
 Ice Master
 Ice Mirror
 Ice Pop Bear
@@ -4573,6 +4601,7 @@ Il Blud
 Illusion Balloons
 Illusionist Faceless Mage
 Illusion Magic
+Illusion of Chaos
 Illusion Strike Dragon Miragias
 Illusory Snatcher
 Ill Witch
@@ -4604,6 +4633,7 @@ Inaba White Rabbit
 Inari Fire
 Incandescent Ordeal
 Incarnated Machine Angel
+Incredible Ecclesia, the Virtuous
 Indestructible Airship Hindenkraft
 Indiora Doom Volt the Cubic Emperor
 Indomitable Fighter Lei Lei
@@ -4906,6 +4936,7 @@ Kagetokage
 Kahkki, Guerilla of Dark World
 Kai-Den Kendo Spirit
 Kaibaman
+Kaibaman the Legend
 Kaiki the Unity Star
 Kairyu-Shin
 Kaiser Dragon
@@ -5251,6 +5282,7 @@ Lightserpent
 Light Sorcerer
 Light Sorcerer of Sanctity
 Light Spiral
+Lightstorm Dragon
 Lightsworn Judgment
 Lightsworn Sabre
 Lightsworn Sanctuary
@@ -5445,6 +5477,7 @@ Magical Android
 Magical Arm Shield
 Magical Beast Wolfang
 Magical Blast
+Magical Broker
 Magical Cavalry of Cxulub
 Magical Citadel of Endymion
 Magical Contract Door
@@ -5495,6 +5528,7 @@ Magician's Circle
 Magician's Magic
 Magician's Robe
 Magician's Rod
+Magician's Salvation
 Magician's Valkyria
 Magician Navigation
 Magician of Black Chaos
@@ -5503,6 +5537,7 @@ Magician of Dark Illusion
 Magician of Faith
 Magicians' Combination
 Magicians' Defense
+Magicians' Souls
 Magicians of Bonds and Unity
 Magicians Unite
 Magician\'s Magic
@@ -5524,6 +5559,7 @@ Magikey Mechmusket - Batosbuster
 Magikey Spirit - Vepartu
 Magikey Unlocking
 Magikey World
+Magikuriboh
 Maginical Miracle
 Maginificent Magikey Mafteal
 Magistery Alchemist
@@ -5575,6 +5611,7 @@ Majestic Star Dragon
 Majesty's Pegasus
 Majesty Hyperion
 Majesty Maiden, the True Dracocaster
+Majesty of the White Dragons
 Majesty with Eyes of Blue
 Maji-Gire Panda
 Majioshaleon
@@ -5629,6 +5666,7 @@ March of the Dark Brigade
 March of the Monarchs
 March Towards Ragnarok
 Mardel, Generaider Boss of Light
+Mare Mare
 Marina, Princess of Sunflowers
 Marincess Coral Anemone
 Marincess Sea Horse
@@ -5676,6 +5714,7 @@ Master Gig
 Master Hyperion
 Master Kyonshee
 Master Monk
+Master of Chaos
 Master of Oz
 Master of the Flaming Dragonswords
 Master Pendulum, the Dracoslayer
@@ -7302,6 +7341,7 @@ Reboot
 Reborn Zombie
 Rebound
 Rebuildeer
+Recall
 Recardination
 Recette de Personnel (Staff Recipe)
 Recette de Poisson (Fish Recipe)
@@ -7411,6 +7451,7 @@ Reptilianne Servant
 Reptilianne Spawn
 Reptilianne Vaskii
 Reptilianne Viper
+Rescue Cat
 Rescue Ferret
 Rescue Hamster
 Rescue Interlacer
@@ -7692,6 +7733,7 @@ Salamangreat Roar
 Salamangreat Sanctuary
 Salamangreat Spinny
 Salamangreat Sunlight Wolf
+Sales Pitch
 Salvage
 Salvagent Driver
 Salvage Warrior
@@ -8193,6 +8235,7 @@ Solitude
 Solomon's Lawbook
 Solo the Melodious Songstress
 SolSolfachord Gracia
+Some Summer Summoner
 Sonata the Melodious Diva
 Sonic Attacker
 Sonic Bird
@@ -8230,6 +8273,7 @@ Soul Resonator
 Soul Resurrection
 Soul Reversal
 Soul Rope
+Soul Servant
 Souls of the Forgotten
 Soul Strike
 Soul Taker
@@ -8396,6 +8440,7 @@ Springans Branga
 Springans Brothers
 Springans Call!
 Springans Captain Sargas
+Springans Interluder
 Springans Merrymaker
 Springans Pedor
 Springans Rockey
@@ -8764,6 +8809,16 @@ Swordsman of Landstar
 Swordsman of Roadstar
 Swords of Burning Light
 Swords of Revealing Light
+Swordsoul Assessment
+Swordsoul Auspice Chunjun
+Swordsoul Blackout
+Swordsoul Emergence
+Swordsoul Grandmaster - Chixiao
+Swordsoul of Mo Ye
+Swordsoul of Taia
+Swordsoul Sacred Summit
+Swordsoul Strategist Longyuan
+Swordsoul Supreme Sovereign - Chengying
 Swordstalker
 Sylphidra
 Sylvan Bladefender
@@ -9005,6 +9060,7 @@ The Furious Sea King
 The Gates of Dark World
 The Gift of Greed
 The Golden Apples
+The Golden Swordsoul
 The Grand Jupiter
 The Grand Spellbook Tower
 The Grave of Enkindling
@@ -9022,6 +9078,7 @@ The Immortal Bushi
 The Immortal of Thunder
 Theinen the Great Sphinx
 The Inexperienced Spy
+The Iris Swordsoul
 The Judgement Hand
 The Kick Man
 The King of D.
@@ -9156,13 +9213,17 @@ Thunder Cavalry Triggerdrago
 Thunderclap Skywolf
 Thunder Crash
 Thunder Dragon
+Thunder Dragon Colossus
 Thunder Dragondark
 Thunder Dragon Discharge
 Thunder Dragonduo
+Thunder Dragon Fusion
 Thunder Dragonhawk
+Thunder Dragonlord
 Thunder Dragonmatrix
 Thunder Dragonroar
 Thunder Dragons' Hundred Thunders
+Thunder Dragon Thunderstormech
 Thunder End Dragon
 Thunder Gazelle
 Thunder Kid
@@ -9423,6 +9484,7 @@ True Draco Apocalypse
 True Draco Heritage
 True King's Return
 True King Agnimazud, the Vanisher
+True Light
 Trumpetonfa the Music Princess
 Trust Guardian
 Tsuchigumo, the Poisonous Mayakashi
@@ -9872,6 +9934,7 @@ Water Dragon
 Water Dragon Cluster
 Waterdragon Fairy
 Water Element
+Waterfall of Dragon Souls
 Water Girl
 Water Hazard
 Water Magician
