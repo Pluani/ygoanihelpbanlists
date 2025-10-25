@@ -632,12 +632,14 @@ Aztekipede, the Worm Warrior
 Azure-Eyes Silver Dragon
 B-Buster Drake
 B. Dragon Jungle King
+B.E.F. Zelos
 B.E.S. Big Core
 B.E.S. Big Core MK-2
 B.E.S. Big Core MK-3
 B.E.S. Blaster Cannon Core
 B.E.S. Covered Core
 B.E.S. Crystal Core
+B.E.S. Derringer Core
 B.E.S. Tetran
 B. Skull Dragon
 Baba Barber
@@ -1072,6 +1074,7 @@ Borreload Riot Dragon
 Borrel Regenerator
 Borrel Supplier
 Borrelsword Dragon
+Boss on Parade
 Boss Rush
 Botanical Girl
 Botanical Lion
@@ -3655,8 +3658,8 @@ Galloping Gaia
 Gamble
 Gambler of Legend
 Gamma The Electromagnet Warrior
-Gamma The Magnet Warrior
 Gamma the Magnet Warrior
+Gamma The Magnet Warrior
 Gamushara
 Ganbara Knight
 Ganbara Lancer
@@ -3867,8 +3870,8 @@ Giant Turtle Who Feeds on Flames
 Giftarist
 Gift Exchange
 Gift of the Martyr
-Gift of the Mystical Elf
 Gift of The Mystical Elf
+Gift of the Mystical Elf
 Giga-Tech Wolf
 Giga Gagagigo
 Gigantes
@@ -5648,8 +5651,8 @@ Malicevorous Knife
 Malicevorous Spoon
 Mammoth Graveyard
 Man-Eater Bug
-Man-Eating Black Shark
 Man-eating Black Shark
+Man-Eating Black Shark
 Man-Eating Plant
 Man-Eating Treasure Chest
 Man-Thro' Tro'
@@ -8672,6 +8675,7 @@ Superalloy Beast Raptinus
 Super Anti-Kaiju War Machine Mecha-Dogoran
 Super Anti-Kaiju War Machine Mecha-Thunder-King
 Super Armored Robot Armed Black Iron "C"
+Super B.E.S. Metal Slave
 Supercharge
 Super Conductor Tyranno
 Super Crashbug
