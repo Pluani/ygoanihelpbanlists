@@ -24,6 +24,7 @@ Abomination's Prison
 Absolute Crusader
 Absolute End
 Absorbing Kid from the Sky
+Absorouter Dragon
 Absurd Stealer
 Abyss-scale of Cetus
 Abyss-scale of the Kraken
@@ -359,6 +360,7 @@ Ancient Warriors Saga - East-by-South Winds
 Ancient Warriors Saga - Sun-Liu Alliance
 Ancient Warriors Saga - Three Visits
 Andro Sphinx
+Anesthrokket Dragon
 Angel O7
 Angel of Zera
 Angel Trumpeter
@@ -464,6 +466,7 @@ Ariel, Priestess of the Nekroz
 Arisen Gaia the Fierce Knight
 A Rival Appears!
 Arkbrave Dragon
+Arktos XII - Chronochasm Vaylantz
 Arlownay
 Armades, Keeper of Boundaries
 Armageddon Designator
@@ -1071,6 +1074,7 @@ Borrel Launch
 Borreload Dragon
 Borreload Furious Dragon
 Borreload Riot Dragon
+Borreload Savage Dragon
 Borrel Regenerator
 Borrel Supplier
 Borrelsword Dragon
@@ -2214,6 +2218,7 @@ Debris Dragon
 Debunk
 Decayed Commander
 Decode Talker
+Decode Talker Heatsoul
 Decoy Dragon
 Decoyroid
 Dedication through Light and Darkness
@@ -3380,6 +3385,16 @@ Flip Flop Frog
 Flipping Feline
 Flogos, the Ogdoadic Boundless
 Floodgate Trap Hole
+Floowandereeze & Eglen
+Floowandereeze & Empen
+Floowandereeze & Robina
+Floowandereeze & Snowl
+Floowandereeze & Stri
+Floowandereeze & Toccan
+Floowandereeze and the Advent of Adventure
+Floowandereeze and the Dreaming Town
+Floowandereeze and the Magnificent Map
+Floowandereeze and the Unexplored Winds
 Floral Shield
 Flourishing Frolic
 Flowerbot
@@ -3658,8 +3673,8 @@ Galloping Gaia
 Gamble
 Gambler of Legend
 Gamma The Electromagnet Warrior
-Gamma the Magnet Warrior
 Gamma The Magnet Warrior
+Gamma the Magnet Warrior
 Gamushara
 Ganbara Knight
 Ganbara Lancer
@@ -3870,8 +3885,8 @@ Giant Turtle Who Feeds on Flames
 Giftarist
 Gift Exchange
 Gift of the Martyr
-Gift of The Mystical Elf
 Gift of the Mystical Elf
+Gift of The Mystical Elf
 Giga-Tech Wolf
 Giga Gagagigo
 Gigantes
@@ -4273,6 +4288,8 @@ Half Counter
 Half Shut
 Half Unbreak
 Halfway to Forever
+Hallo, the Spirit of Tricks
+Hallo-Ween!
 Hallohallo
 Hallowed Life Barrier
 Hamburger Recipe
@@ -4480,6 +4497,7 @@ Hippo Carnival
 Hiro's Shadow Scout
 Hitodenchak
 Hitotsu-Me Giant
+Hojo the Vaylantz Warrior
 Holograh
 Holy Guard
 Homunculus the Alchemic Being
@@ -4557,6 +4575,7 @@ Hysteric Fairy
 Hysteric Party
 Hysteric Sign
 Ib the World Chalice Priestess
+Icarus Attack
 Ice Beast Zerofyne
 Ice Dragon's Prison
 Ice Hand
@@ -5245,6 +5264,21 @@ Levia-Dragon - Daedalus
 Leviair the Sea Dragon
 Liberty at Last!
 Libic, Malebranche of the Burning Abyss
+Libromancer Agent
+Libromancer Bonded
+Libromancer Displaced
+Libromancer Doombroker
+Libromancer Fire
+Libromancer Fireburst
+Libromancer Firestarter
+Libromancer First Appearance
+Libromancer Geek Boy
+Libromancer Intervention
+Libromancer Magigirl
+Libromancer Mystigirl
+Libromancer Origin Story
+Libromancer Prevented
+Libromancer Realized
 Lich Lord, King of the Underworld
 Life Absorbing Machine
 Life Equalizer
@@ -5650,6 +5684,7 @@ Malicevorous Fork
 Malicevorous Knife
 Malicevorous Spoon
 Mammoth Graveyard
+Mamonaka the Vaylantz United
 Man-Eater Bug
 Man-eating Black Shark
 Man-Eating Black Shark
@@ -6245,6 +6280,7 @@ Naturia Tulip
 Naturia Vein
 Naturia White Oak
 Nauya, the Ogdoadic Remnant
+Nazuki the Vaylantz Ninja
 Nebula Dragon
 Neck Hunter
 Necklace of Command
@@ -6582,6 +6618,7 @@ Onomatopaira
 Onomatopia
 Onomatopickup
 Onslaught of the Fire Kings
+On Your Mark, Get Set, DUEL!
 Ooguchi
 Ookazi
 Oops!
@@ -7600,7 +7637,9 @@ Rod of the Mind's Eye
 Rogue Doll
 Rogue of Archfiend
 Rogue of Endymion
+Rokket Recharger
 Rokket Reload
+Rokket Synchron
 Rokket Tracer
 Roll Out!
 Romanpick
@@ -7705,6 +7744,7 @@ Sage of Silence
 Sage of Stillness
 Sage with Eyes of Blue
 Saggi the Dark Clown
+Saion the Vaylantz Archer
 Sakitama
 Sakuretsu Armor
 Salamandra
@@ -8008,6 +8048,7 @@ Shinobird Crane
 Shinobird Crow
 Shinobird Pigeon
 Shinobird Power Spot
+Shinonome the Vaylantz Priestess
 Shiny Black "C"
 Shiny Black "C" Squadder
 Shiranui Samurai
@@ -8189,6 +8230,7 @@ Slot Machine
 Slower Swallow
 Slushy
 Small Piece Golem
+Small World
 Smashing Ground
 Smashing Horn
 Smile Potion
@@ -8427,6 +8469,7 @@ Spiritual Light Art - Hijiri
 Spiritual Whisper
 Spiritual Wind Art - Miyabi
 Splash Capture
+Splash Mage
 Splendid Rose
 Splendid Venus
 Spool Code
@@ -8454,6 +8497,7 @@ Sprite's Blessing
 Spy-C-Spy
 Spyder Spider
 Squeaknight
+Squib Draw
 SSD Drake
 St. Joan
 Stack Reviver
@@ -8594,6 +8638,7 @@ Strength in Unity
 Strength of Prophecy
 Strike Ninja
 Strike of the Monarchs
+Striker Dragon
 Striping Partner
 Striping Wyvern
 Stronghold Guardian
@@ -9318,6 +9363,7 @@ Toon Summoned Skull
 Toon Table of Contents
 Toon World
 Topologic Bomber Dragon
+Topologic Trisbaena
 Top Runner
 Torapart
 Torike
@@ -9545,6 +9591,7 @@ Twin Long Rods 1
 Twin Photon Lizard
 Twins Together
 Twin Swords of Flashing Light - Tryce
+Twin Triangle Dragon
 Twin Vortex
 Twister
 Two-Headed King Rex
@@ -9751,6 +9798,16 @@ Vanishing Heliacal Riser
 Vanity's Call
 Variable Form
 Variety Comes Out
+Vaylantz Buster Baron
+Vaylantz Dominator Duke
+Vaylantz Genesis Grand Duke
+Vaylantz Mad Marquess
+Vaylantz Voltage Viscount
+Vaylantz Wakening - Solo Activation
+Vaylantz Wars - The Place of Beginning
+Vaylantz Wave - Master Phase
+Vaylantz World - Konig Wissen
+Vaylantz World - Shinra Bansho
 Vector Pendulum, the Dracoverlord
 Vector Scare Archfiend
 Vehicroid Connection Zone
@@ -9792,6 +9849,7 @@ Vicious Claw
 Victoria
 Victory Viper XX03
 Vic Viper T301
+Vic Viper Type-L
 Vietor the Prevailing Wind
 Vijam the Cubic Seed
 Vile Germs
@@ -9975,6 +10033,7 @@ Weapon Change
 Weather Control
 Weathering Soldier
 Weed Out
+Ween, the Spirit of Treats
 Weeping Idol
 Wee Witch's Apprentice
 Weights & Zenmaisures
