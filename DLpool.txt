@@ -799,6 +799,16 @@ Beckoning Light
 Bee List Soldier
 Beelze Frog
 Beetron
+Beetrooper Armor Horn
+Beetrooper Assault Roller
+Beetrooper Cruel Saturnas
+Beetrooper Fly & Sting
+Beetrooper Formation
+Beetrooper Landing
+Beetrooper Light Flapper
+Beetrooper Scale Bomber
+Beetrooper Scout Buggy
+Beetrooper Sting Lancer
 Beginning Knight
 Beginning of Heaven and Earth
 Begone, Knave!
@@ -3866,6 +3876,7 @@ Ghost Ship
 Ghoulish Gal
 Ghoul with an Appetite
 Giant Axe Mummy
+Giant Beetrooper Invincible Atlas
 Giant Flea
 Giant Germ
 Giant Kozaky
@@ -3885,8 +3896,8 @@ Giant Turtle Who Feeds on Flames
 Giftarist
 Gift Exchange
 Gift of the Martyr
-Gift of the Mystical Elf
 Gift of The Mystical Elf
+Gift of the Mystical Elf
 Giga-Tech Wolf
 Giga Gagagigo
 Gigantes
@@ -4035,6 +4046,7 @@ Gogogo Goram
 Gogogo Talisman
 Goka, the Pyre of Malice
 Gokibore
+Gokipole
 Gokipon
 Gold Coins for Cats
 Goldd, Wu-Lord of Dark World
@@ -4279,6 +4291,7 @@ Gyaku-Gire Panda
 Gyakutenno Megami
 Gyroid
 H - Heated Heart
+Ha-Re the Sword Mikanko
 Hacking Dragon
 Hack Worm
 Hade-Hane
@@ -4366,10 +4379,13 @@ Heart of the Underdog
 Heat Wave
 Heavenly Bliss
 Heavenly Dragon Circle
+Heavenly Gate of the Mikanko
 Heavenly Gift
 Heavenly Selection
 Heavenly Zephyr - Miradora
 Heavy Armored Train Ironwolf
+Heavy Beetrooper Mighty Neptune
+Heavy Cavalry of the Indestructible Insects
 Heavy Forward
 Heavy Freight Train Derricrane
 Heavy Interlock
@@ -5686,8 +5702,8 @@ Malicevorous Spoon
 Mammoth Graveyard
 Mamonaka the Vaylantz United
 Man-Eater Bug
-Man-eating Black Shark
 Man-Eating Black Shark
+Man-eating Black Shark
 Man-Eating Plant
 Man-Eating Treasure Chest
 Man-Thro' Tro'
@@ -5965,6 +5981,13 @@ Mid Shield Gardna
 Mighty Gaze of the Sky Emperor
 Mighty Guard
 Mighty Warrior
+Mikanko Fire Dance
+Mikanko Kagura
+Mikanko Promise
+Mikanko Purification Dance
+Mikanko Reflection Rondo
+Mikanko Rivalry
+Mikanko Water Arabesque
 Mikazukinoyaiba
 Mild Turkey
 Milky Wave Neo
@@ -6362,6 +6385,7 @@ Newdoria
 NEX
 NEXT
 Next to be Lost
+Ni-Ni the Mirror Mikanko
 Nibiru, the Primal Being
 Nidhogg, Generaider Boss of Ice
 Night's End Sorcerer
@@ -6582,6 +6606,7 @@ Ogdoadic Water Lily
 Ogre of the Black Shadow
 Ogre of the Scarlet Sorrow
 Oh F!sh!
+Ohime the Manifested Mikanko
 Oh Tokenbaum!
 Oilman
 Ojama Black
@@ -7064,7 +7089,9 @@ Prank-Kids Pranks
 Prank-Kids Rocket Ride
 Precious Cards from Beyond
 Predaplanet
+Predaplanning
 Predaplant Ambulomelides
+Predaplant Bufolicula
 Predaplant Byblisp
 Predaplant Chimerafflesia
 Predaplant Chlamydosundew
@@ -7081,9 +7108,12 @@ Predaplant Sarraceniant
 Predaplant Spider Orchid
 Predaplant Spinodionaea
 Predaplant Squid Drosera
+Predaplant Triantis
+Predaplant Triphyoverutum
 Predaplast
 Predaponics
 Predapractice
+Predaprime Fusion
 Predapruning
 Prediction Princess Arrowsylph
 Prediction Princess Astromorrigan
@@ -7102,6 +7132,7 @@ Pride Shout
 Priestess with Eyes of Blue
 Prima Guitarna the Shining Superstar
 Primal Cry
+Primal Dragon, the Primordial
 Primal Howling
 Prime Material Dragon
 Prime Material Falcon
@@ -8263,8 +8294,8 @@ Solar Ray
 Solar Recharge
 Solar Wind Jammer
 Soldier Dragons
-Soldier Gaia The Fierce Knight
 Soldier Gaia the Fierce Knight
+Soldier Gaia The Fierce Knight
 Solemn Authority
 Solemn Scolding
 Solemn Wishes
@@ -8560,6 +8591,7 @@ Star Siphon
 Star Traleo
 Star Trancer
 Starving Venom Fusion Dragon
+Starving Venom Predapower Fusion Dragon
 Statue of Anguish Pattern
 Statue of the Wicked
 Staunch Defender
@@ -8798,6 +8830,7 @@ Super Vehicroid Jumbo Drill
 Supervise
 Super War-Lion
 Supply
+Supply Soldier of the Indestructible Insects
 Supporter in the Shadows
 Suppression Collider
 Supremacy Berry
@@ -9116,6 +9149,7 @@ The Grave of Enkindling
 The Graveyard in the Fourth Dimension
 The Great Double Casted Caster
 The Great Emperor Penguin
+The Great Mikanko Ceremony
 The Gross Ghost of Fled Dreams
 The Guard
 The Hidden City
@@ -9684,6 +9718,7 @@ Underclock Taker
 Underground Arachnid
 Underworld Egg Clutch
 Underworld Fighter Balmung
+Underworld Goddess of the Closed World
 Unending Nightmare
 Unexpected Dai
 Unformed Void
