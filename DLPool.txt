@@ -1030,6 +1030,7 @@ Blue-Eyes Tyrant Dragon
 Blue-Eyes Ultimate Dragon
 Blue-Eyes White Dragon
 Blue-Fang Burst Dragon
+Blue-Fang Concurrent Burst Dragon
 Blue-Fang Enhanced Burst Dragon
 Blue-Winged Crown
 Blue Dragon Ninja
@@ -1664,6 +1665,7 @@ Core Reinforcement
 Core Transport Unit
 Corktrooper
 Cornfield Coatl
+Cornful Charity
 Corroding Shark
 Corruption Cell "A"
 Cosmic Compass
@@ -1827,6 +1829,7 @@ Curse of Fiend
 Curse of Royal
 Curse of the Circle
 Curse of the Masked Beast
+Curse of the Rising Light
 Curse of the Shadow Prison
 Curtain of Sparks
 Curtain of the Dark Ones
@@ -2371,6 +2374,8 @@ Diamond Dust
 Diana the Light Spirit
 Dian Keto the Boogie Master
 Dian Keto the Cure Master
+Dian Keto the Cure Prodigy
+Dian Keto the Food Prodigy
 Dian Keto the Security Master
 Dice-nied
 Dice Armadillo
@@ -2876,6 +2881,7 @@ Elemental HERO Grandmerge
 Elemental HERO Grand Neos
 Elemental HERO Great Tornado
 Elemental HERO Heat
+Elemental HERO Heat Neos
 Elemental HERO Ice Edge
 Elemental HERO Inferno
 Elemental HERO Knospe
@@ -2897,6 +2903,7 @@ Elemental HERO Phoenix Enforcer
 Elemental HERO Plasma Vice
 Elemental HERO Poison Rose
 Elemental HERO Prisma
+Elemental HERO Pulse Neos
 Elemental HERO Rampart Blaster
 Elemental HERO Shining Flare Wingman
 Elemental HERO Solid Soldier
@@ -2985,6 +2992,7 @@ Energy Bravery
 Energy Drain
 Enervating Mist
 Engraver of the Mark
+Enigmatic Princess of Eternal Heaven
 Enishi, Shien's Chancellor
 Enlightenment
 Enlightenment Paladin
@@ -3206,6 +3214,7 @@ Faith Bird
 Fake Explosion
 Fake Feather
 Fake Hero
+Fake Neos
 Fake Trap
 Falchionβ
 Fallen Angel of Roses
@@ -3683,8 +3692,8 @@ Galloping Gaia
 Gamble
 Gambler of Legend
 Gamma The Electromagnet Warrior
-Gamma The Magnet Warrior
 Gamma the Magnet Warrior
+Gamma The Magnet Warrior
 Gamushara
 Ganbara Knight
 Ganbara Lancer
@@ -4434,6 +4443,7 @@ Hero's Rule 2
 Hero Barrier
 Hero Blast
 Hero Counterattack
+Hero Descent
 Hero Heart
 Heroic Advance
 Heroic Challenger - Ambush Soldier
@@ -4583,6 +4593,7 @@ Hyper Hammerhead
 Hyper Psychic Blaster
 Hyper Psychic Blaster/Assault Mode
 Hyper Psychic Riser
+Hyperspeed
 Hyperstrike Dragon Dragiastar F
 Hyper Synchron
 Hypnocorn
@@ -4989,6 +5000,7 @@ Kaminote Blow
 Kamion, the Timelord
 Kamionwizard
 Kamui, Hope of Gusto
+Kanan the Beautiful Swordmistress
 Kanan the Security Guard
 Kanan the Sword Diva
 Kanan the Swordmistress
@@ -5702,8 +5714,8 @@ Malicevorous Spoon
 Mammoth Graveyard
 Mamonaka the Vaylantz United
 Man-Eater Bug
-Man-Eating Black Shark
 Man-eating Black Shark
+Man-Eating Black Shark
 Man-Eating Plant
 Man-Eating Treasure Chest
 Man-Thro' Tro'
@@ -5761,6 +5773,7 @@ Mask of Volos
 Mask of Weakness
 Massivemorph
 Master & Expert
+Master's Cure
 Master's Diploman
 Master Craftsman Gamil
 Masterflare Hyperion
@@ -6183,6 +6196,7 @@ Mudora
 Mudragon of the Swamp
 Muka Muka
 Muko
+Multiple
 Multiple Piece Golem
 Multiplication of Ants
 Multiply
@@ -6216,6 +6230,7 @@ Mystical Fairy Elfuria
 Mystical Knight of Jackal
 Mystical Moon
 Mystical Sand
+Mystical Sandbox
 Mystical Sheep #1
 Mystical Sheep #2
 Mystical Shine Ball
@@ -6709,6 +6724,7 @@ Overlay Sentinel
 Over Limit
 Overload Fusion
 Overpowering Eye
+Over Rush Storm
 Overtex Qoatlus
 Overwhelm
 Overwind
@@ -7054,6 +7070,7 @@ Power Angel Valkyria
 Power Break
 Power Breaker
 Power Capsule
+Power Capsule Red
 Powercode Talker
 Power Converter
 Powered Crawler
@@ -7065,6 +7082,7 @@ Power Giant
 Powerhold the Moving Battery
 Power Injector
 Power Invader
+Power Meter
 Power of Kaishin
 Power of the Guardians
 Power Pickaxe
@@ -8380,6 +8398,8 @@ Spear Shark
 Special Hurricane
 Special Schedule
 Specimen Inspection
+Specter of Heaven's Beginning
+Specter of Heaven's End
 Speed Bird
 Speedlift
 Speed Recovery
@@ -8746,6 +8766,7 @@ Sunvine Thrasher
 Supay
 Supay, Duskwalker
 Super-Ancient Dinobeast
+Super-Dimensional Lord British Space Fighter
 Super-Electromagnetic Voltech Dragon
 Super-Nimble Mega Hamster
 Superalloy Beast Raptinus
@@ -9883,6 +9904,9 @@ Vice Dragon
 Vicious Claw
 Victoria
 Victory Viper XX03
+Vic Viper Beginning
+Vic Viper Ripple Laser
+Vic Viper Spread Bomb
 Vic Viper T301
 Vic Viper Type-L
 Vietor the Prevailing Wind
