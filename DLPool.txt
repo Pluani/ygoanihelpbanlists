@@ -679,6 +679,7 @@ Ballista Squad
 Balloon Lizard
 Bamboo Scrap
 Banisher of the Light
+Banishing Trap Hole
 Banishment of the Darklords
 Banner of Courage
 Baobaboon
@@ -1117,10 +1118,14 @@ Brainwashing Beam
 Branch!
 Branded Bond
 Branded Disciple
+Branded Fusion
 Branded in High Spirits
 Branded in Red
 Branded in White
+Branded Lost
 Branded Opening
+Branded Retribution
+Branded Sword
 Brassaxophone the Music Princess
 Bravedrive
 Brave Scizzar
@@ -1345,6 +1350,7 @@ Catoblepas, Familiar of the Evil Eye
 Catoblepas and the Witch of Fate
 Cat Shark
 Cattle Call
+Cattycorn
 Cat World
 Cauldron of the Old Man
 Cave Dragon
@@ -2148,6 +2154,7 @@ Dark Magician Girl
 Dark Magician Girl the Dragon Knight
 Dark Magician Knight
 Dark Magician of Chaos
+Dark Magician the Dragon Knight
 Dark Magician the Knight of Dragon Magic
 Dark Magic Inheritance
 Dark Magic Twin Burst
@@ -2364,6 +2371,7 @@ Dewloren, Tiger King of the Ice Barrier
 Dharc the Dark Charmer
 Dharma-Eye Magician
 Dharma Cannon
+Diabolantis the Menacing Mantis
 Diabolic King Beetle
 Diabolos, King of the Abyss
 Diabound Kernel
@@ -2620,6 +2628,7 @@ Dragon's Return
 Dragon's Sage
 Dragon Bat
 Dragon Bird
+Dragonbite
 Dragoncaller Magician
 Dragon Capture Jar
 Dragoncarnation
@@ -2742,6 +2751,19 @@ Droll & Lock Bird
 Droll Bird
 Drooling Lizard
 Drowning Mirror Force
+Drytron Alpha Thuban
+Drytron Asterism
+Drytron Beta Rastaban
+Drytron Delta Altais
+Drytron Eclipse
+Drytron Fafnir
+Drytron Gamma Eltanin
+Drytron Meteonis Draconids
+Drytron Meteonis Quadrantids
+Drytron Meteor Shower
+Drytron Mu Beta Fafnir
+Drytron Nova
+Drytron Zeta Aldhibah
 Dual Assembwurm
 Dual Avatar - Empowered Kon-Gyo
 Dual Avatar - Empowered Mitsu-Jaku
@@ -3889,6 +3911,7 @@ Giant Beetrooper Invincible Atlas
 Giant Flea
 Giant Germ
 Giant Kozaky
+Giant Kra-Corn
 Giant Mech-Soldier
 Giant Orc
 Giant Pairfish
@@ -4277,11 +4300,14 @@ Guitar Gurnards Duonigis
 Guldfaxe of the Nordic Beasts
 Gundari
 Gungnir, Dragon of the Ice Barrier
+Gunkan Suship Catch-of-the-Day
 Gunkan Suship Daily Special
 Gunkan Suship Ikura
 Gunkan Suship Ikura-class Dreadnought
 Gunkan Suship Shari
 Gunkan Suship Shari Red
+Gunkan Suship Shirauo
+Gunkan Suship Shirauo-class Carrier
 Gunkan Suship Uni
 Gunkan Suship Uni-class Super-Dreadnought
 Gunkan Sushipyard Seaside Supper Spot
@@ -4321,6 +4347,7 @@ Hammer Shark
 Hammer Shot
 Hamon, Lord of Striking Thunder
 Hampering Hippo
+Han-Shi Kyudo Spirit
 Hand-Holding Genie
 Handcuffs Dragon
 Handigallop
@@ -5419,6 +5446,7 @@ Lost Guardian
 Lost Wind
 Loud Cloud the Storm Serpent
 LP Boost Omega
+Lubellion the Searing Dragon
 Lucent, Netherlord of Dark World
 Lucius the Shadow Vassal
 Lucky Chance
@@ -5972,6 +6000,7 @@ Metarion Herculestar
 Metarion King Cobrastar
 Metarion Ladonstar
 Metarion Vritrastar
+Meteonis Drytron
 Meteorain
 Meteor B. Dragon
 Meteor Black Comet Dragon
@@ -6063,6 +6092,7 @@ Mira the Star-Bearer
 Mirror Force
 Mirror Force Dragon
 Mirror Force Launcher
+Mirrorjade the Iceblade Dragon
 Mirror Ladybug
 Mirror Mail
 Mirror of Oaths
@@ -6272,6 +6302,7 @@ Myutant Mutant
 Myutant ST-46
 Myutant Synthesis
 Myutant Ultimus
+Nadir Servant
 Naelshaddoll Ariel
 Nagel's Protection
 Naglfar, Generaider Boss of Fire
@@ -7415,6 +7446,7 @@ Re-Cover
 Re-dyce-cle
 Re-Fusion
 Re: EX
+Reactan, Dragon Ruler of Pebbles
 Ready for Intercepting
 Really Eternal Rest
 Realm of Light
@@ -7480,6 +7512,7 @@ Red Mirror
 Red Nova
 Red Nova Dragon
 Red Ogre
+Redox, Dragon Ruler of Boulders
 Red Potan
 Red Reign
 Red Resonator
@@ -8172,6 +8205,7 @@ Silent Swordsman LV5
 Silent Swordsman LV7
 Silent Timelord
 Silent Wolf Calupo
+Silhouhatte Trick
 Silpheed
 Silver's Cry
 Silver Bow and Arrow
@@ -8312,8 +8346,8 @@ Solar Ray
 Solar Recharge
 Solar Wind Jammer
 Soldier Dragons
-Soldier Gaia The Fierce Knight
 Soldier Gaia the Fierce Knight
+Soldier Gaia The Fierce Knight
 Solemn Authority
 Solemn Scolding
 Solemn Wishes
@@ -8538,6 +8572,7 @@ Springans Brothers
 Springans Call!
 Springans Captain Sargas
 Springans Interluder
+Springans Kitt
 Springans Merrymaker
 Springans Pedor
 Springans Rockey
@@ -8921,6 +8956,7 @@ Swordsoul of Mo Ye
 Swordsoul of Taia
 Swordsoul Sacred Summit
 Swordsoul Strategist Longyuan
+Swordsoul Strife
 Swordsoul Supreme Sovereign - Chengying
 Swordstalker
 Sylphidra
@@ -9069,6 +9105,7 @@ Terratiger, the Empowered Warrior
 Terrene Toothed Tsuchinoko
 Terrible Deal
 Terrifying Toddler of Torment
+Terrifying Trap Hole Nightmare
 Terrorking Archfiend
 Terrorking Salmon
 Terrors in the Hidden City
@@ -9344,6 +9381,7 @@ Tiger Dragon
 Tiki Curse
 Tiki Soul
 Timaeus the Knight of Destiny
+Timaeus the United Dragon
 Time-Space Trap Hole
 Time Angel
 Timebreaker Magician
@@ -9474,14 +9512,20 @@ Trap of the Imperial Tomb
 Trap Reactor・Y FI
 Trap Reclamation
 Trap Stun
+Traptantalizing Tune
+Traptrip Garden
 Traptrix Allomerus
+Traptrix Arachnocampa
 Traptrix Atrax
 Traptrix Dionaea
 Traptrix Genlisea
+Traptrix Holeutea
 Traptrix Mantis
 Traptrix Myrmeleo
 Traptrix Nepenthes
+Traptrix Pudica
 Traptrix Rafflesia
+Traptrix Sera
 Traptrix Trap Hole Nightmare
 Traptrix Vesiculo
 Treacherous Trap Hole
@@ -9500,6 +9544,7 @@ Tri-Brigade Ferrijit the Barren Blossom
 Tri-Brigade Fraktall
 Tri-Brigade Kerass
 Tri-Brigade Kitt
+Tri-Brigade Mercourier
 Tri-Brigade Nervall
 Tri-Brigade Oath
 Tri-Brigade Rendezvous
@@ -9528,6 +9573,7 @@ Triangle O
 Triangle Power
 Trias Hierarchia
 Tribe-Shocking Virus
+Tribe Drive
 Tribulldog
 Tribute Burial
 Tribute Doll
@@ -10482,6 +10528,7 @@ Zerozerock
 Zerrziel, Ruler of the Evil Eyed
 Zeta Reticulant
 Zoa
+Zodiac Sign
 Zohah, the Ogdoadic Boundless
 Zolga
 Zoma the Spirit
@@ -10499,6 +10546,19 @@ Zombino
 Zombowwow
 Zombyra the Dark
 Zone Eater
+Zoodiac Barrage
+Zoodiac Boarbow
+Zoodiac Bunnyblast
+Zoodiac Chakanine
+Zoodiac Combo
+Zoodiac Drident
+Zoodiac Gathering
+Zoodiac Hammerkong
+Zoodiac Kataroost
+Zoodiac Ramram
+Zoodiac Thoroughblade
+Zoodiac Tigermortar
+Zoodiac Whiptail
 Zoroa, the Magistus of Flame
 ZS - Armed Sage
 ZS - Ascended Sage
