@@ -3714,8 +3714,8 @@ Galloping Gaia
 Gamble
 Gambler of Legend
 Gamma The Electromagnet Warrior
-Gamma the Magnet Warrior
 Gamma The Magnet Warrior
+Gamma the Magnet Warrior
 Gamushara
 Ganbara Knight
 Ganbara Lancer
@@ -3928,8 +3928,8 @@ Giant Turtle Who Feeds on Flames
 Giftarist
 Gift Exchange
 Gift of the Martyr
-Gift of The Mystical Elf
 Gift of the Mystical Elf
+Gift of The Mystical Elf
 Giga-Tech Wolf
 Giga Gagagigo
 Gigantes
@@ -3946,6 +3946,7 @@ Gilford the Legend
 Gilford the Lightning
 Gil Garth
 Gillagillancer
+Gilti-Gearfried the Magical Steel Knight
 Giltia the D. Knight
 Gimmick Puppet Bisque Doll
 Gimmick Puppet Chimera Doll
@@ -5439,6 +5440,7 @@ Lord Gaia the Fierce Knight
 Lord of D.
 Lord of the Heavenly Prison
 Lord of the Lamp
+Lord of the Red
 Lord of Zemia
 Lord Poison
 Lost Blue Breaker
@@ -7481,6 +7483,7 @@ Red-Eyes Black Dragon
 Red-Eyes Black Dragon Sword
 Red-Eyes Black Metal Dragon
 Red-Eyes Black Meteor Dragon
+Red-Eyes Burn
 Red-Eyes Darkness Dragon
 Red-Eyes Fang with Chain
 Red-Eyes Flare Metal Dragon
@@ -7490,6 +7493,7 @@ Red-Eyes Retro Dragon
 Red-Eyes Slash Dragon
 Red-Eyes Spirit
 Red-Eyes Toon Dragon
+Red-Eyes Transmigration
 Red-Eyes Wyvern
 Red-Eyes Zombie Dragon
 Red-Eyes Zombie Dragon Lord
@@ -8346,8 +8350,8 @@ Solar Ray
 Solar Recharge
 Solar Wind Jammer
 Soldier Dragons
-Soldier Gaia the Fierce Knight
 Soldier Gaia The Fierce Knight
+Soldier Gaia the Fierce Knight
 Solemn Authority
 Solemn Scolding
 Solemn Wishes
