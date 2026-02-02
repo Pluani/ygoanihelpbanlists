@@ -387,6 +387,7 @@ Anti Raigeki
 Ape Fighter
 Ape Magician
 Apocatequil
+Apophis the Swamp Deity
 Apoqliphort Skybase
 Apoqliphort Towers
 Apparition
@@ -757,6 +758,7 @@ Battlin' Boxer Sparrer
 Battlin' Boxer Switchitter
 Battlin' Boxer Uppercutter
 Battlin' Boxer Veil
+Battlin' Boxing Cross Counter
 Battlin' Boxing Spirits
 Baxia, Brightness of the Yang Zing
 Bayerock Dragon
@@ -2482,6 +2484,7 @@ Divine Dragon Aquabizarre
 Divine Dragon Knight Felgrand
 Divine Dragon Lord Felgrand
 Divine Dragon Ragnarok
+Divine Golden Shadow Dragon Dragluxion
 Divine Grace - Northwemko
 Divine Knight Ishzark
 Divine Punishment
@@ -2736,6 +2739,7 @@ Dream Mirror of Joy
 Dream Mirror of Terror
 Dream Mirror Phantasms
 Dream Mirror Recap
+Dream Shark
 Dreamsprite
 Dreiath III, the True Dracocavalry General
 Dried Winds
@@ -3655,6 +3659,9 @@ Gagagatag
 Gagagawind
 Gagagigo
 Gagagigo the Risen
+Gagaku-P.U.N.K. Crash Beat
+Gagaku-P.U.N.K. Wa Gon
+Gagaku-P.U.N.K. Wild Picking
 Gaia, the Mid-Knight Sun
 Gaia, the Polar Knight
 Gaia Dragon, the Thunder Charger
@@ -3691,6 +3698,7 @@ Galaxy-Eyes Cloudragon
 Galaxy-Eyes Full Armor Photon Dragon
 Galaxy-Eyes Photon Dragon
 Galaxy-Eyes Solflare Dragon
+Galaxy-Eyes Tachyon Primal
 Galaxy Brave
 Galaxy Cleric
 Galaxy Cyclone
@@ -3928,8 +3936,8 @@ Giant Turtle Who Feeds on Flames
 Giftarist
 Gift Exchange
 Gift of the Martyr
-Gift of the Mystical Elf
 Gift of The Mystical Elf
+Gift of the Mystical Elf
 Giga-Tech Wolf
 Giga Gagagigo
 Gigantes
@@ -4945,6 +4953,9 @@ Jolt Counter
 Jongleur-Ghoul Illusionist
 Jormungandr, Generaider Boss of Eternity
 Jormungardr the Nordic Serpent
+Joruri-P.U.N.K. Dangerous Gabu
+Joruri-P.U.N.K. Madame Spider
+Joruri-P.U.N.K. Nashiwari Surprise
 Jowls of Dark Demise
 Judge Man
 Judge of the Ice Barrier
@@ -5441,6 +5452,7 @@ Lord of D.
 Lord of the Heavenly Prison
 Lord of the Lamp
 Lord of the Red
+Lord of the Tachyon Galaxy
 Lord of Zemia
 Lord Poison
 Lost Blue Breaker
@@ -5744,8 +5756,8 @@ Malicevorous Spoon
 Mammoth Graveyard
 Mamonaka the Vaylantz United
 Man-Eater Bug
-Man-eating Black Shark
 Man-Eating Black Shark
+Man-eating Black Shark
 Man-Eating Plant
 Man-Eating Treasure Chest
 Man-Thro' Tro'
@@ -6173,6 +6185,7 @@ Moonlit Papillon
 Moon of the Closed Heaven
 Mooyan Curry
 Morale Boost
+Moray of Avarice
 Moray of Greed
 Mordschlag
 Mormolith
@@ -6503,6 +6516,11 @@ Nobleman-Eater Bug
 Nobleman of Crossout
 Nobleman of Extermination
 No Entry!!
+Noh-P.U.N.K. Deer Note
+Noh-P.U.N.K. Foxy Tune
+Noh-P.U.N.K. Ogre Dance
+Noh-P.U.N.K. Rising Scale
+Noh-P.U.N.K. Ze Amin
 No Hope in the Future - Only Despair
 Noisy Gnat
 Nomadic Force
@@ -6582,6 +6600,7 @@ Number 91: Thunder Spark Dragon
 Number 92: Heart-eartH Dragon
 Number 94: Crystalzero
 Number 98: Antitopian
+Number 101: Silent Honor ARK
 Number 102: Star Seraph Sentry
 Number 104: Masquerade
 Number 105: Battlin' Boxer Star Cestus
@@ -6767,6 +6786,7 @@ Oxygeddon
 Oyster Meister
 Ozone Slayer
 P.M. Captor
+P.U.N.K. JAM Dragon Drive
 Pacifis, the Phantasm City
 Packet Swap
 Pahunder
@@ -7241,6 +7261,7 @@ Psychic Burial
 Psychic Commander
 Psychic Divergence
 Psychic Emperor
+Psychic End Punisher
 Psychic Feel Zone
 Psychic Introduction
 Psychic Jumper
@@ -7411,6 +7432,7 @@ Rallis the Star Bird
 RAM Clouder
 Rampaging Rhynos
 Rampaging Smashtank Rhynosaber
+Rank-Up-Magic - The Seventh One
 Rank-Up-Magic Admiration of the Thousands
 Rank-Up-Magic Barian's Force
 Rank-Up-Magic Doom Double Force
@@ -7460,6 +7482,7 @@ Reaper Scythe - Dreadscythe
 Rebellion
 Rebirth of Nephthys
 Rebirth of Parshath
+Rebirth of the Seventh Emperors
 Reboot
 Reborn Zombie
 Rebound
@@ -7537,6 +7560,7 @@ Regenerating Rose
 Regretful Rebirth
 Regulus
 Reign-Beaux, Overlord of Dark World
+Reincarnation of the Seventh Emperors
 Reinforced Human Psychic Borg
 Reinforced Space
 Reinforcement of the Army
@@ -7921,6 +7945,7 @@ Scarred Dragon Archfiend
 Scarred Warrior
 Scary Moth
 Schuberta the Melodious Maestra
+Schwarzschild Infinity Dragon
 Schwarzschild Limit Dragon
 Science Soldier
 Score the Melodious Diva
@@ -8051,6 +8076,9 @@ Sevens Road Warlock
 Sevens Road Witch
 Sevens Road Wiz
 Seven Swords Warrior
+Seventh Eternity
+Seventh Force
+Seventh Tachyon
 Seven Tools of the Bandit
 Severing Psychic Wall
 Sextet Summon
@@ -8906,6 +8934,7 @@ Supreme Machine Magnum Overlord [R]
 Supreme Sea Mare
 Supreme Sovereign Serpent of Golgonda
 Surface
+Surfacing Big Jaws
 Surge Bolt Lizard
 Surgical Striker - H.A.M.P.
 Survival's End
@@ -9039,6 +9068,8 @@ T.G. Trident Launcher
 T.G. Warwolf
 T.G. Wonder Magician
 Tachyon Chaos Hole
+Tachyon Cloudragon
+Tachyon Spiral Galaxy
 Tachyon Transmigration
 Tackle Crusader
 Tactical Espionage Expert
@@ -9468,6 +9499,7 @@ Tornado
 Tornado Bird
 Torna the Windweaver
 Torpedo Fish
+Torpedo Takedown
 Torque Tune Gear
 Torrential Reborn
 Total Defense Shogun
@@ -9737,6 +9769,9 @@ UFOLight
 UFOroid
 UFOroid Fighter
 UFO Turtle
+Ukiyoe-P.U.N.K. Amazing Dragon
+Ukiyoe-P.U.N.K. Rising Carp
+Ukiyoe-P.U.N.K. Sharakusai
 Ultimate Ancient Gear Golem
 Ultimate Axon Kicker
 Ultimate Baseball Kid
