@@ -17,6 +17,7 @@
 A-Team: Trap Disposal Unit
 A/D Changer
 Abaki
+A Bao A Qu, the Lightless Shadow
 Abare Ushioni
 Abominable Chamber of the Unchained
 Abominable Unchained Soul
@@ -3064,6 +3065,7 @@ Evil?Twin's Trouble Sunny
 Evil?Twin Challenge
 Evil?Twin GG EZ
 Evil?Twin Ki-sikil
+Evil?Twin Ki-sikil Deal
 Evil?Twin Lil-la
 Evil?Twin Present
 Evil?Twins Ki-sikil & Lil-la
@@ -3690,7 +3692,9 @@ Galactica Xiphos
 Galactic Charity
 Galactic Enforcer
 Galactic Spiral Dragon
+Galactikuriboh
 Galatea, the Orcust Automaton
+Galaxy-Eyes Afterglow Dragon
 Galaxy-Eyes Cipher Blade Dragon
 Galaxy-Eyes Cipher Dragon
 Galaxy-Eyes Cipher X Dragon
@@ -3704,6 +3708,7 @@ Galaxy Cleric
 Galaxy Cyclone
 Galaxy Dragon
 Galaxy Expedition
+Galaxy Journey
 Galaxy Knight
 Galaxy Mirror Sage
 Galaxy Queen's Light
@@ -3712,8 +3717,10 @@ Galaxy Serpent
 Galaxy Soldier
 Galaxy Stealth Dragon
 Galaxy Storm
+Galaxy Summoner
 Galaxy Trance
 Galaxy Tyranno
+Galaxy War Drake
 Galaxy Wave
 Galaxy Wizard
 Galaxy Zero
@@ -3722,8 +3729,8 @@ Galloping Gaia
 Gamble
 Gambler of Legend
 Gamma The Electromagnet Warrior
-Gamma The Magnet Warrior
 Gamma the Magnet Warrior
+Gamma The Magnet Warrior
 Gamushara
 Ganbara Knight
 Ganbara Lancer
@@ -3936,8 +3943,8 @@ Giant Turtle Who Feeds on Flames
 Giftarist
 Gift Exchange
 Gift of the Martyr
-Gift of The Mystical Elf
 Gift of the Mystical Elf
+Gift of The Mystical Elf
 Giga-Tech Wolf
 Giga Gagagigo
 Gigantes
@@ -3957,15 +3964,20 @@ Gillagillancer
 Gilti-Gearfried the Magical Steel Knight
 Giltia the D. Knight
 Gimmick Puppet Bisque Doll
+Gimmick Puppet Cattle Scream
 Gimmick Puppet Chimera Doll
 Gimmick Puppet Des Troy
 Gimmick Puppet Dreary Doll
 Gimmick Puppet Egg Head
+Gimmick Puppet Fantasix Machinix
+Gimmick Puppet Fiendish Knight
 Gimmick Puppet Gear Changer
 Gimmick Puppet Gigantes Doll
 Gimmick Puppet Humpty Dumpty
+Gimmick Puppet Little Soldiers
 Gimmick Puppet Magnet Doll
 Gimmick Puppet Nightmare
+Gimmick Puppet Rouge Doll
 Gimmick Puppet Scissor Arms
 Gimmick Puppet Shadow Feeler
 Gimmick Puppet Terror Baby
@@ -5430,6 +5442,7 @@ Live?Twin Home
 Live?Twin Ki-sikil
 Live?Twin Ki-sikil Frost
 Live?Twin Lil-la
+Live?Twin Lil-la Sweet
 Live?Twin Lil-la Treat
 Live?Twin Sunny's Snitch
 Living Fossil
@@ -5756,8 +5769,8 @@ Malicevorous Spoon
 Mammoth Graveyard
 Mamonaka the Vaylantz United
 Man-Eater Bug
-Man-Eating Black Shark
 Man-eating Black Shark
+Man-Eating Black Shark
 Man-Eating Plant
 Man-Eating Treasure Chest
 Man-Thro' Tro'
@@ -5783,6 +5796,7 @@ Marincess Transcend
 Marine Beast
 Marionette Mite
 Marmiting Captain
+Marshalling Field
 Marshmallon
 Marshmallon Glasses
 Maryokutai
@@ -6582,6 +6596,7 @@ Number 56: Gold Rat
 Number 57: Tri-Head Dust Dragon
 Number 58: Burner Visor
 Number 61: Volcasaurus
+Number 62: Galaxy-Eyes Prime Photon Dragon
 Number 63: Shamoji Soldier
 Number 64: Ronin Raccoon Sandayu
 Number 65: Djinn Buster
@@ -6610,6 +6625,7 @@ Number C5: Chaos Chimera Dragon
 Number C32: Shark Drake Veiss
 Number C39: Utopia Ray
 Number C39: Utopia Ray V
+Number C62: Neo Galaxy-Eyes Prime Photon Dragon
 Number C79: Battlin' Boxer General Kaiser
 Number C80: Requiem in Berserk
 Number C102: Archfiend Seraph
@@ -7034,8 +7050,11 @@ Photon Chargeman
 Photon Circle
 Photon Crusher
 Photon Current
+Photon Delta Wing
+Photon Emperor
 Photon Generator Unit
 Photon Hand
+Photon Jumper
 Photon Lead
 Photon Leo
 Photon Lizard
@@ -7049,6 +7068,7 @@ Photon Slasher
 Photon Stream of Destruction
 Photon Strike Bounzer
 Photon Thrasher
+Photon Timestop
 Photon Trident
 Photon Vanisher
 Photon Veil
@@ -7298,8 +7318,10 @@ Punishment Dragon
 Puny Penguin
 Puppet King
 Puppet Master
+Puppet Parade
 Puppet Plant
 Puppet Ritual
+Puppet Shark
 Puralis, the Purple Pyrotile
 Purge Ray
 Pursuit Chaser
@@ -7434,6 +7456,7 @@ Rampaging Rhynos
 Rampaging Smashtank Rhynosaber
 Rank-Up-Magic - The Seventh One
 Rank-Up-Magic Admiration of the Thousands
+Rank-Up-Magic Argent Chaos Force
 Rank-Up-Magic Barian's Force
 Rank-Up-Magic Doom Double Force
 Rank-Up-Magic Limited Barian's Force
@@ -7849,6 +7872,7 @@ Sacred Spirit of the Ice Barrier
 Sacred Sword of Seven Stars
 Sadion, the Timelord
 Saffira, Queen of Dragons
+Saga of the Dragon Emperor
 Sage's Stone
 Sage of Silence
 Sage of Stillness
@@ -8064,6 +8088,7 @@ Serpent Marauder
 Serpent Night Dragon
 Serpent Suppression
 Servant of Catabolism
+Service Puppet Play
 Serziel, Watcher of the Evil Eye
 Setuppercut
 Sevens Paladin
@@ -8378,8 +8403,8 @@ Solar Ray
 Solar Recharge
 Solar Wind Jammer
 Soldier Dragons
-Soldier Gaia The Fierce Knight
 Soldier Gaia the Fierce Knight
+Soldier Gaia The Fierce Knight
 Solemn Authority
 Solemn Scolding
 Solemn Wishes
@@ -10003,6 +10028,16 @@ Violet Crystal
 Violet Witch
 Viper's Rebirth
 Virgil, Rock Star of the Burning Abyss
+Virtual World Gate - Chuche
+Virtual World Gate - Qinglong
+Virtual World Gate - Xuanwu
+Virtual World Hime - Nyannyan
+Virtual World Kirin - Lili
+Virtual World Kyubi - Shenshen
+Virtual World Mai-Hime - Lulu
+Virtual World Oto-Hime - Toutou
+Virtual World Roshi - Laolao
+Virtual World Xiezhi - Jiji
 Virus Cannon
 Viscom Nanotron
 Viser Des
