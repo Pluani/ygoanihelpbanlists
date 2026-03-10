@@ -120,6 +120,7 @@ A Hero Emerges
 Air Armor Ninja
 Air Cracking Storm
 Air Eater
+Air Formula Eagle
 Airknight Parshath
 Airorca
 Aitsu
@@ -1353,6 +1354,7 @@ Catoblepas, Familiar of the Evil Eye
 Catoblepas and the Witch of Fate
 Cat Shark
 Cattle Call
+Cattle Healer Amore
 Cattycorn
 Cat World
 Cauldron of the Old Man
@@ -1698,6 +1700,7 @@ Counter Gem
 Counter Pigeons
 Court of Cards
 Court of Justice
+Cover Barrage
 Covering Fire
 Crab Turtle
 Crackdown
@@ -3145,6 +3148,17 @@ Exarion Universe
 Exchange
 Exchange of Night and Day
 Exchange of the Spirit
+Excutie Capture!
+Excutie Feena
+Excutie Floa
+Excutie Leya
+Excutie Lucy
+Excutie Lumière
+Excutie Plawtie
+Excutie Power Up!
+Excutie RAM
+Excutie Scout!
+Excutie Scramble!
 Execute Protocols
 Executie Phermi
 Executie Riding!
@@ -3943,8 +3957,8 @@ Giant Turtle Who Feeds on Flames
 Giftarist
 Gift Exchange
 Gift of the Martyr
-Gift of the Mystical Elf
 Gift of The Mystical Elf
+Gift of the Mystical Elf
 Giga-Tech Wolf
 Giga Gagagigo
 Gigantes
@@ -5769,8 +5783,8 @@ Malicevorous Spoon
 Mammoth Graveyard
 Mamonaka the Vaylantz United
 Man-Eater Bug
-Man-eating Black Shark
 Man-Eating Black Shark
+Man-eating Black Shark
 Man-Eating Plant
 Man-Eating Treasure Chest
 Man-Thro' Tro'
@@ -6033,12 +6047,18 @@ Meteorain
 Meteor B. Dragon
 Meteor Black Comet Dragon
 Meteor Black Dragon
+Meteor Black Drake
 Meteor Charge
 Meteor Dragon
+Meteor Dragon's Chick
 Meteor Dragon Red-Eyes Impact
+Meteor Drake
 Meteor Flare
+Meteor Flare Fusion
+Meteorite Fall
 Meteor Larva
 Meteor of Destruction
+Meteor Swarm Dragon
 Metrognome
 Mezuki
 Michael, the Arch-Lightsworn
@@ -7758,6 +7778,7 @@ Rocket Arrow Express
 Rocket Hand
 Rocket Hermos Cannon
 Rocket Jumper
+Rocket Medic
 Rocket Pilder
 Rocket Warrior
 Rock Ogre Grotto #1
@@ -7954,6 +7975,7 @@ Satellarknight Vega
 Satellarknight Zefrathuban
 Satellite Cannon
 Satellite Laser Balsam
+Saturnius' Orb
 Sauge de Fleur
 Sauravis, the Ancient and Ascended
 Sauropod Brachion
@@ -8403,8 +8425,8 @@ Solar Ray
 Solar Recharge
 Solar Wind Jammer
 Soldier Dragons
-Soldier Gaia the Fierce Knight
 Soldier Gaia The Fierce Knight
+Soldier Gaia the Fierce Knight
 Solemn Authority
 Solemn Scolding
 Solemn Wishes
@@ -8487,6 +8509,7 @@ Spear Dragon
 Spearfish Soldier
 Spear Shark
 Special Hurricane
+Special Operative Flavor Inspector
 Special Schedule
 Specimen Inspection
 Specter of Heaven's Beginning
@@ -8561,6 +8584,7 @@ Sphere of Chaos
 Spherous Lady
 Sphinx Teleia
 Spice the Elite Noodle Ninja
+Spice the Special Noodle Ninja Rich Broth
 Spider Egg
 Spiders' Lair
 Spider Web
@@ -8765,6 +8789,7 @@ Storm Dragon's Return
 Storming Wynn
 Storm Shooter
 Straight Flush
+Straigh the Noodle Ninja
 Straight Pierce
 Strange Traveler
 Strange Wall
@@ -9299,6 +9324,7 @@ The Melody of Awakening Dragon
 The Melting Red Shadow
 The Monarchs Awaken
 The Monarchs Stormforth
+The Noodle Art of Flavor Shift
 The Noodle Art of Roastery
 The Noodle Art of Savory
 The Paths of Destiny
@@ -9533,6 +9559,7 @@ Tour Bus From the Underworld
 Tour Bus To Forbidden Realms
 Tour Guide From the Underworld
 Tower of Babel
+Towline Cattle Healer
 Toy Emperor
 Toy Knight
 Toy Magician
