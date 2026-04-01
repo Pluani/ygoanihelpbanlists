@@ -14,11 +14,14 @@
 7 Shift
 8-Claws Scorpion
 30,000-Year White Turtle
+A-Assault Core
 A-Team: Trap Disposal Unit
+A-to-Z Energy Load
 A/D Changer
 Abaki
 A Bao A Qu, the Lightless Shadow
 Abare Ushioni
+ABC-Dragon Buster
 Abominable Chamber of the Unchained
 Abominable Unchained Soul
 Abomination's Prison
@@ -1276,6 +1279,7 @@ Buzzsaw Shark
 By Order of the Emperor
 Byroad Sacrifice
 Byser Shock
+C-Crush Wyvern
 Caam, Serenity of Gusto
 Cabrera Stone
 Cactus Fighter
@@ -1955,11 +1959,14 @@ Cú Chulainn the Awakened
 D-Boyz
 D - Chain
 D - Counter
+D - Force
 D - Formation
 D - Fortune
 D-Fusion
 D - Mind
+D - Shield
 D - Spirit
+D - Tactics
 D - Time
 D.3.S. Frog
 D.D. Assailant
@@ -2335,16 +2342,21 @@ Destiny HERO - Dark Angel
 Destiny HERO - Dasher
 Destiny HERO - Decider
 Destiny HERO - Defender
+Destiny HERO - Denier
 Destiny HERO - Departed
+Destiny HERO - Destroyer Phoenix Enforcer
 Destiny HERO - Diamond Dude
 Destiny HERO - Dogma
 Destiny HERO - Doom Lord
 Destiny HERO - Double Dude
+Destiny HERO - Drawhand
 Destiny HERO - Dreadmaster
 Destiny HERO - Dread Servant
 Destiny HERO - Dreamer
 Destiny HERO - Drilldark
 Destiny HERO - Dunker
+Destiny HERO - Dusktopia
+Destiny HERO - Dynatag
 Destiny HERO - Dystopia
 Destiny HERO - Fear Monger
 Destiny HERO - Malicious
@@ -2510,6 +2522,7 @@ DNA Transplant
 Do a Barrel Roll
 Doble Passe
 Doctor Cranium
+Doctor D
 Dodger Dragon
 Dododo Bot
 Dododo Buster
@@ -2660,6 +2673,7 @@ Dragon Knight Draco-Equiste
 Dragon Knight of Creation
 Dragon Knight of Darkness
 Dragon Laser
+Dragonmaid Cehrmba
 Dragonmaid Changeover
 Dragonmaid Downtime
 Dragonmaid Ernus
@@ -3012,6 +3026,7 @@ Enchanting Fitting Room
 Enchanting Mermaid
 Encode Talker
 Endless Decay
+Endless Engine Argyro System
 End of the World
 Endoll
 Endymion, the Magistus of Mastery
@@ -3033,6 +3048,7 @@ Equipment of Ascension
 Equip Shot
 Eradicating Aerosol
 Erebus the Underworld Monarch
+Eria the Water Channeler
 Eria the Water Charmer
 Erica the Rikka Fairy
 Escalation of the Monarchs
@@ -3324,6 +3340,7 @@ Fighting Spirit
 Fighting Spirit of the Avenger
 Filo, Messenger Fur Hire
 Final Attack Orders
+Final Bringer of the End Times
 Final Cross
 Final Destiny
 Final Flame
@@ -3623,6 +3640,7 @@ Fusion
 Fusion Cancel
 Fusion Conscription
 Fusion Deployment
+Fusion Destiny
 Fusion Devourer
 Fusion Fright Waltz
 Fusion Gate
@@ -3957,8 +3975,8 @@ Giant Turtle Who Feeds on Flames
 Giftarist
 Gift Exchange
 Gift of the Martyr
-Gift of The Mystical Elf
 Gift of the Mystical Elf
+Gift of The Mystical Elf
 Giga-Tech Wolf
 Giga Gagagigo
 Gigantes
@@ -5235,6 +5253,7 @@ Labyrinth of Kline
 Labyrinth of Nightmare
 Labyrinth Tank
 Labyrinth Wall
+Lady's Dragonmaid
 Lady Assailant of Flames
 Lady Debug
 Lady Ninja Yae
@@ -5560,9 +5579,13 @@ Machina Gearframe
 Machina Irradiator
 Machina Megaform
 Machina Peacekeeper
+Machina Possesstorage
 Machina Redeployment
+Machina Resavenger
+Machina Ruinforce
 Machina Sniper
 Machina Soldier
+Machina Unclaspare
 Machine Angel Absolute Ritual
 Machine Angel Ritual
 Machine Assembly Line
@@ -5783,8 +5806,8 @@ Malicevorous Spoon
 Mammoth Graveyard
 Mamonaka the Vaylantz United
 Man-Eater Bug
-Man-Eating Black Shark
 Man-eating Black Shark
+Man-Eating Black Shark
 Man-Eating Plant
 Man-Eating Treasure Chest
 Man-Thro' Tro'
@@ -7140,6 +7163,7 @@ Poisonous Winds
 Poissonniere de Nouvelles
 Poki Draco
 Poliscoop
+Pollinosis
 Poly-Chemicritter Dioxogre
 Poly-Chemicritter Hydragon
 Polymerization
@@ -7712,6 +7736,11 @@ Righty Driver
 Rigorous Reaver
 Rikka Flurries
 Rikka Glamour
+Rikka Konkon
+Rikka Petal
+Rikka Princess
+Rikka Queen Strenna
+Rikka Sheet
 Rikka Tranquility
 Rilliona, the Magistus of Verre
 Rilliona, the Wondrous Magistus Witch Wardrobe
@@ -7891,6 +7920,7 @@ Sacred Scrolls of the Gizmek Legend
 Sacred Serpent's Wake
 Sacred Spirit of the Ice Barrier
 Sacred Sword of Seven Stars
+Sacred Tree Beast, Hyperyton
 Sadion, the Timelord
 Saffira, Queen of Dragons
 Saga of the Dragon Emperor
@@ -8425,8 +8455,8 @@ Solar Ray
 Solar Recharge
 Solar Wind Jammer
 Soldier Dragons
-Soldier Gaia The Fierce Knight
 Soldier Gaia the Fierce Knight
+Soldier Gaia The Fierce Knight
 Solemn Authority
 Solemn Scolding
 Solemn Wishes
@@ -8802,6 +8832,7 @@ Straynge Cat
 Straynge Clowder
 Straynge Magician
 Straynge Witch
+Stream, Dragon Ruler of Droplets
 Stream of Elimination
 Strength in Unity
 Strength of Prophecy
@@ -9044,7 +9075,10 @@ Swordsoul Supreme Sovereign - Chengying
 Swordstalker
 Sylphidra
 Sylvan Bladefender
+Sylvan Blessing
+Sylvan Charity
 Sylvan Cherubsprout
+Sylvan Dancepione
 Sylvan Flowerknight
 Sylvan Guardioak
 Sylvan Hermitree
@@ -9154,6 +9188,7 @@ Tatsunecro
 Tatsunoko
 Tatsunootoshigo
 Taunt
+Teardrop the Rikka Queen
 Telekinetic Charging Cell
 Telekinetic Shocker
 Telepathic Agent
@@ -9351,6 +9386,17 @@ The Regulation of Tribe
 The Reliable Guardian
 The Resolute Meklord Army
 The Revenge of the Normal
+Therion "Bull" Ain
+Therion "Duke" Yul
+Therion "Empress" Alasia
+Therion "King" Regulus
+Therion "Lily" Borea
+Therion "Reaper" Fum
+Therion Charge
+Therion Cross
+Therion Discolosseum
+Therion Irregular
+Therion Stand Up!
 Thermal Genex
 The Rock Spirit
 The Sacred Waters in the Sky
@@ -9461,6 +9507,7 @@ Thunder Short
 Thunder Spark
 Thunder the Thunder
 Thunder Unicorn
+Tidal, Dragon Ruler of Waterfalls
 Ties of the Brethren
 Tiger Axe
 Tiger Dragon
@@ -9863,6 +9910,7 @@ Umiiruka
 Uminotaurus
 Unacceptable Result
 Unauthorized Bootup Device
+Unauthorized Reactivation
 Unbreakable Spirit
 Unchained Abomination
 Unchained Soul of Anguish
@@ -9889,7 +9937,12 @@ Unicycular
 Unified Front
 Uniflora, Mystical Beast of the Forest
 Unifrog
+Union Activation
 Union Attack
+Union Controller
+Union Driver
+Union Hangar
+Union Pilot
 Union Rider
 Union Scramble
 United Front
@@ -10473,6 +10526,7 @@ Wynn the Wind Charmer, Verdant
 Wyrm Excavator the Heavy Cavalry Draco
 Wyrm Excavator the Heavy Cavalry Draco [L]
 Wyrm Excavator the Heavy Cavalry Draco [R]
+X-Cross Cannon
 X-Head Cannon
 X-Krawler Neurogos
 X-Krawler Synaphysis
@@ -10490,6 +10544,7 @@ Xiangke Magician
 Xiangsheng Magician
 Xing Zhen Hu
 Xing Zhen Hu Replica
+Xtra HERO Cross Crusader
 Xtra HERO Wonder Driver
 XX-Saber Boggart Knight
 XX-Saber Darksoul
@@ -10502,6 +10557,7 @@ XX-Saber Hyunlei
 XX-Saber Ragigura
 XY-Dragon Cannon
 XYZ-Dragon Cannon
+XYZ-Hyper Dragon Cannon
 Xyz-Raypierce
 Xyz Agent
 Xyz Align
@@ -10509,6 +10565,7 @@ Xyz Bento
 Xyz Block
 Xyz Burst
 Xyz Change Tactics
+XYZ Combine
 Xyz Dimension Splash
 Xyz Double Back
 Xyz Effect
@@ -10516,6 +10573,7 @@ Xyz Encore
 Xyz Energy
 Xyz Galaxy
 Xyz Gift
+XYZ Hyper Cannon
 Xyz Import
 Xyz Override
 Xyz Reborn
@@ -10538,6 +10596,7 @@ Xyz Wrath
 Xyz Xtreme !!
 XZ-Tank Cannon
 Y-Dragon Head
+Y-Yare Head
 Yado Karu
 Yaiba Robo
 Yajiro Invader
@@ -10604,6 +10663,7 @@ Yurushima Warrior
 YZ-Tank Dragon
 Z-Metal Tank
 Z-ONE
+Z-Zillion Tank
 Zaborg the Thunder Monarch
 Zanki
 Zaphion, the Timelord
