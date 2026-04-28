@@ -366,6 +366,7 @@ Ancient Warriors Saga - Sun-Liu Alliance
 Ancient Warriors Saga - Three Visits
 Andro Sphinx
 Anesthrokket Dragon
+Angello Vaalmonica
 Angel O7
 Angel of Zera
 Angel Trumpeter
@@ -1990,10 +1991,12 @@ D.D. Warrior
 D.D. Warrior Lady
 D. Human
 D. Tribe
+D/D/D Abyss King Gilgamesh
 D/D/D Chaos King Apocalypse
 D/D/D Contract Change
 D/D/D Cursed King Siegfried
 D/D/D Destiny King Zero Laplace
+D/D/D Deviser King Deus Machinex
 D/D/D Doom King Armageddon
 D/D/D Dragonbane King Beowulf
 D/D/D Dragon King Pendragon
@@ -2001,6 +2004,7 @@ D/D/D Flame High King Genghis
 D/D/D Flame King Genghis
 D/D/D Gust High King Alexander
 D/D/D Gust King Alexander
+D/D/D Headhunt
 D/D/D Human Resources
 D/D/D Marksman King Tell
 D/D/D Oblivion King Abyss Ragnarok
@@ -2008,15 +2012,19 @@ D/D/D Oracle King d'Arc
 D/D/D Rebel King Leonidas
 D/D/D Stone King Darius
 D/D/D Super Doom King Dark Armageddon
+D/D/D Super Doom King Purple Armageddon
 D/D/D Supersight King Zero Maxwell
 D/D/D Supreme King Kaiser
+D/D/D Vice King Requiem
 D/D/D Wave King Caesar
 D/D/D Wave Oblivion King Caesar Ragnarok
 D/D Ark
 D/D Berfomet
 D/D Cerberus
 D/D Dog
+D/D Evil
 D/D Ghost
+D/D Gryphon
 D/D Lamia
 D/D Lilith
 D/D Necro Slime
@@ -2027,11 +2035,13 @@ D/D Proud Chevalier
 D/D Proud Ogre
 D/D Recruits
 D/D Reroll
+D/D Savant Copernicus
 D/D Savant Galilei
 D/D Savant Kepler
 D/D Savant Newton
 D/D Savant Nikola
 D/D Savant Thomas
+D/D Scale Surveyor
 D/D Swirl Slime
 D/D Vice Typhon
 D2 Shield
@@ -2090,6 +2100,7 @@ Dark Chimera
 Dark City
 Dark Coffin
 Dark Contract with Errors
+Dark Contract with Patent License
 Dark Contract with the Entities
 Dark Contract with the Gate
 Dark Contract with the Swamp King
@@ -2451,6 +2462,7 @@ Dimension Mirage
 Dimension Slice
 Dimension Wall
 Dimension Wanderer
+Dimonno Vaalmonica
 Dingirsu, the Orcust of the Evening Star
 Dino-Sewing
 Dinomic Powerload
@@ -2809,6 +2821,7 @@ Dummy Golem
 Dunames Dark Witch
 Dungeon Worm
 Duoterion
+Duralume, Vaalmonican Heathen Hallow
 Dust Barrier
 Dustflame Blast
 Dust Knight
@@ -3158,6 +3171,7 @@ Evoltile Westlo
 Evolutionary Bridge
 Evolution Burst
 Evolzar Laggia
+Evolzar Lars
 Evolzar Solda
 Exa, Enforcer of the Nekroz
 Exarion Universe
@@ -3975,8 +3989,8 @@ Giant Turtle Who Feeds on Flames
 Giftarist
 Gift Exchange
 Gift of the Martyr
-Gift of the Mystical Elf
 Gift of The Mystical Elf
+Gift of the Mystical Elf
 Giga-Tech Wolf
 Giga Gagagigo
 Gigantes
@@ -4312,6 +4326,7 @@ Griffore
 Griggle
 Ground Attacker Bugroth
 Ground Spider
+Ground Xeno
 Groza, Tyrant of Thunder
 Gruesome Goo
 Gryphon's Feather Duster
@@ -5806,8 +5821,8 @@ Malicevorous Spoon
 Mammoth Graveyard
 Mamonaka the Vaylantz United
 Man-Eater Bug
-Man-eating Black Shark
 Man-Eating Black Shark
+Man-eating Black Shark
 Man-Eating Plant
 Man-Eating Treasure Chest
 Man-Thro' Tro'
@@ -8117,6 +8132,7 @@ Seismic Crasher
 Seismic Shockwave
 Seiyaryu
 Seleglare the Luminous Lunar Dragon
+Selettrice Vaalmonica
 Self-Destruct Button
 Self-Mummification
 Semeruler the Dark Summoner
@@ -8455,8 +8471,8 @@ Solar Ray
 Solar Recharge
 Solar Wind Jammer
 Soldier Dragons
-Soldier Gaia the Fierce Knight
 Soldier Gaia The Fierce Knight
+Soldier Gaia the Fierce Knight
 Solemn Authority
 Solemn Scolding
 Solemn Wishes
@@ -8986,6 +9002,7 @@ Super Robolady
 Super Roboyarou
 Super Rush Headlong
 Super Rush Recklessly
+Supersoaring
 Super Solar Nutrient
 Super Soldier Rebirth
 Super Soldier Ritual
@@ -9632,6 +9649,11 @@ Transam Jelai
 Transam Kleine
 Transam Linac
 Transamu Ephyrai
+Transcendosaurus Drillygnathus
+Transcendosaurus Exaraptor
+Transcendosaurus Gigantozowler
+Transcendosaurus Glaciasaurus
+Transcendosaurus Meteorus
 Transcicada
 Transforming Sphere
 Transmigration Break
@@ -9994,6 +10016,16 @@ Utopian Aura
 Utopic Onomatopoeia
 V-LAN Hydra
 V-Tiger Jet
+Vaalmonica, the Agathokakological Voice
+Vaalmonica Chosen Melody
+Vaalmonica Creation
+Vaalmonica Disarmonia
+Vaalmonica Ereditare
+Vaalmonica Followed Rhythm
+Vaalmonica Intonare
+Vaalmonica Invitare
+Vaalmonica Scelta
+Vaalmonica Versare
 Vahram, the Magistus Divinity Dragon
 Vain Betrayer
 Vala, Seidhr of the Generaider Bosses
@@ -10042,6 +10074,7 @@ Vanadis of the Nordic Ascendant
 Vanguard of the Dragon
 Vanishing Heliacal Riser
 Vanity's Call
+Varar, Vaalmonican Concord
 Variable Form
 Variety Comes Out
 Vaylantz Buster Baron
@@ -10540,6 +10573,7 @@ X-Saber Souza
 X-Saber Urbellum
 X-Saber Uruz
 X-Saber Wayne
+Xeno Meteorus
 Xiangke Magician
 Xiangsheng Magician
 Xing Zhen Hu
@@ -10669,6 +10703,7 @@ Zanki
 Zaphion, the Timelord
 Zap Zap Octospark
 Zarigun
+Zebufera, Vaalmonican Hallow Heathen
 Zefra Path
 Zefrasaber, Swordmaster of the Nekroz
 Zefraxa, Flame Beast of the Nekroz
