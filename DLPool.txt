@@ -683,6 +683,7 @@ Balameuniere de Nouvelles
 Balancer Lord
 Ballista of Rampart Smashing
 Ballista Squad
+Balloon Butier
 Balloon Lizard
 Bamboo Scrap
 Banisher of the Light
@@ -1415,6 +1416,7 @@ Chaos Betrayer
 Chaos Bloom
 Chaos Burst
 Chaos Command Magician
+Chaos Coolstars
 Chaos Distill
 Chaos Dragon Levianeer
 Chaos End
@@ -1656,6 +1658,7 @@ Constructor Sword Foreman
 Constructor Warrior Shovelon
 Constructor Wyrm Buildragon
 Contact
+Contact Darkmatter Explorer
 Contact Out
 Contact with Gusto
 Contact with the Aquamirror
@@ -1711,6 +1714,7 @@ Crab Turtle
 Crackdown
 Cracking
 Cracking Dragon
+Crack Neutron
 Crafter Drone
 Craftroll
 Crane Crane
@@ -2121,6 +2125,7 @@ Dark Effigy
 Dark Elf
 Dark End Dragon
 Dark Energy
+Dark Eradicator Sorcerer
 Dark Eradicator Warlock
 Dark Eruption
 Dark Eye Nightmare
@@ -2185,6 +2190,7 @@ Dark Magic Twin Burst
 Dark Magic Veil
 Dark Mambele
 Dark Master - Zorc
+Dark Matter Requiem
 Dark Mimic LV1
 Dark Mimic LV3
 Dark Mirror Force
@@ -2202,6 +2208,7 @@ Dark Rabbit
 Dark Rebellion Xyz Dragon
 Dark Red Enchanter
 Dark Requiem Xyz Dragon
+Dark Resonance Burst
 Dark Resonator
 Dark Room of Nightmare
 Dark Rose Fairy
@@ -2939,6 +2946,7 @@ Elemental HERO Grand Neos
 Elemental HERO Great Tornado
 Elemental HERO Heat
 Elemental HERO Heat Neos
+Elemental HERO Heliosphere
 Elemental HERO Ice Edge
 Elemental HERO Inferno
 Elemental HERO Knospe
@@ -3078,6 +3086,7 @@ Eternal Galactica Oblivion
 Eternal Galaxy
 Eternal Rest
 Eternal Soul
+Eternity Ether Dragon
 Ether Finder
 Ether F Striker
 Ether Seeker
@@ -3103,6 +3112,8 @@ Evil?Twin Present
 Evil?Twins Ki-sikil & Lil-la
 Evil Blast
 Evil Dragon Ananta
+Evil Dragon Knight of Darkness
+Evil Dragon of Darkness
 Evil Eye Awakening
 Evil Eye Confrontation
 Evil Eye Defeat
@@ -3182,6 +3193,7 @@ Excutie Capture!
 Excutie Feena
 Excutie Floa
 Excutie Leya
+Excutie Leya Frontier
 Excutie Lucy
 Excutie Lumière
 Excutie Plawtie
@@ -3643,6 +3655,7 @@ Full House
 Fullmetalfoes Alkahest
 Fullmetalfoes Fusion
 Full Meteor Impact
+Full Moon Dragon Umbralancer F
 Full Salvo
 Fungi of the Musk
 Fury of Fire
@@ -3731,8 +3744,10 @@ Galactiara Eve
 Galactiara FUSE Eve
 Galactica Adargatling
 Galactica Amnesia
+Galactica Dejavu
 Galactica Force
 Galactica Oblivion
+Galactica Reminiscences
 Galactica Repulsion
 Galactica Xiphos
 Galactic Charity
@@ -3775,8 +3790,8 @@ Galloping Gaia
 Gamble
 Gambler of Legend
 Gamma The Electromagnet Warrior
-Gamma the Magnet Warrior
 Gamma The Magnet Warrior
+Gamma the Magnet Warrior
 Gamushara
 Ganbara Knight
 Ganbara Lancer
@@ -3830,6 +3845,7 @@ Geargiattacker
 Geargiauger
 Gear Gigant X
 Gear Golem the Moving Fortress
+Gearpold the Magically Armored Beast
 Gearspring Spirit
 Geartown
 Geira Guile the Cubic King
@@ -3989,8 +4005,8 @@ Giant Turtle Who Feeds on Flames
 Giftarist
 Gift Exchange
 Gift of the Martyr
-Gift of The Mystical Elf
 Gift of the Mystical Elf
+Gift of The Mystical Elf
 Giga-Tech Wolf
 Giga Gagagigo
 Gigantes
@@ -5412,6 +5428,7 @@ Life Equalizer
 Life Extreme
 Lifeforce Harmonizer
 Lifeless Leaffish
+Lifeline Linac
 Life Stream Dragon
 Light-Imprisoning Mirror
 Light Barrier
@@ -6525,6 +6542,7 @@ Night's End Sorcerer
 Night Assailant
 Night Beam
 Night Before the Big March
+Nightbringer Dragon
 Night Express Knight
 Night Flight
 Night Lizard
@@ -7576,6 +7594,7 @@ Recette de Poisson (Fish Recipe)
 Recette de Viande (Meat Recipe)
 Reckoned Power
 Recoded Alive
+Recombination Galactica
 Recon, Scout Fur Hire
 Recovery Force
 Recovery Sorcerer
@@ -7935,6 +7954,7 @@ Sacred Scrolls of the Gizmek Legend
 Sacred Serpent's Wake
 Sacred Spirit of the Ice Barrier
 Sacred Sword of Seven Stars
+Sacred Tower in Collapse
 Sacred Tree Beast, Hyperyton
 Sadion, the Timelord
 Saffira, Queen of Dragons
@@ -8020,6 +8040,7 @@ Satellarknight Vega
 Satellarknight Zefrathuban
 Satellite Cannon
 Satellite Laser Balsam
+Satellite Soldier
 Saturnius' Orb
 Sauge de Fleur
 Sauravis, the Ancient and Ascended
@@ -8159,6 +8180,7 @@ Servant of Catabolism
 Service Puppet Play
 Serziel, Watcher of the Evil Eye
 Setuppercut
+Sevens Chariot
 Sevens Paladin
 Sevens Road Charmy Witch
 Sevens Road Mage
@@ -8168,6 +8190,7 @@ Sevens Road Ultima Witch
 Sevens Road Warlock
 Sevens Road Witch
 Sevens Road Wiz
+Sevens Wonder Fusion
 Seven Swords Warrior
 Seventh Eternity
 Seventh Force
@@ -8186,6 +8209,7 @@ Shaddoll Hound
 Shaddoll Schism
 Shaddoll Squamata
 Shadow-Imprisoning Mirror
+Shadowbringer Dragon
 Shadow Buyer
 Shadow Delver
 Shadow Flower Spore
@@ -8823,6 +8847,7 @@ Stone Armadiller
 Stone Dragon
 Stone Ghost
 Stonehenge Methods
+Stone of the Dark Magicians
 Stone Ogre Grotto
 Stone Statue of the Aztecs
 Stop Defense
@@ -9644,10 +9669,14 @@ Trakodon
 Trance Archfiend
 Trancefamiliar
 Trance the Magic Swordsman
+Transam Buster Linac
 Transam Ephyrai
 Transam Jelai
 Transam Kleine
+Transam Lightning
 Transam Linac
+Transam Nebula Fusion
+Transam Power Linac
 Transamu Ephyrai
 Transcendosaurus Drillygnathus
 Transcendosaurus Exaraptor
@@ -10181,6 +10210,7 @@ Void Seer
 Void Trap Hole
 Void Vanishment
 Voidvelg Apocalypse
+Voidvelg Beyond Probe
 Voidvelg Cataphract
 Voidvelg Chrysaor
 Voidvelg Elysium
@@ -10192,7 +10222,9 @@ Voidvelg Palerider
 Voidvelg Peltast
 Voidvelg Protostar
 Voidvelg Requiem
+Voidvelg Stork
 Voidvelg Theogonia
+Voidvelg Whiterider
 Vola-Chemicritter Methydraco
 Volcanic Blaster
 Volcanic Counter
@@ -10208,6 +10240,7 @@ Volcanic Shell
 Volcanic Slicer
 Volcanic Wall
 Volcano Attack Dragon
+Volcano Black Dragon
 Voloferniges, the Darkest Dragon Doomrider
 Voltanis the Adjudicator
 Voltic Bicorn
@@ -10462,6 +10495,7 @@ Witness of Dragon Destroyer
 Witty Phantom
 Wiz, Sage Fur Hire
 Wizard Buster Destruction Sword
+Wizened Dark Magician
 W Nebula Meteorite
 Wodan the Resident of the Forest
 Wolf
