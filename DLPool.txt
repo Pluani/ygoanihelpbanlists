@@ -446,6 +446,7 @@ Arcanite Magician/Assault Mode
 Archfiend's Ascent
 Archfiend's Awakening
 Archfiend's Call
+Archfiend's Ghastly Glitch
 Archfiend's Manifestation
 Archfiend's Roar
 Archfiend's Staff of Despair
@@ -469,6 +470,8 @@ Archfiend Zombie-Skull
 Archlord Zerato
 Arcjet Lightcraft
 Arc Rebellion Xyz Dragon
+Ariane the Labrynth Servant
+Arianna the Labrynth Servant
 Ariel, Priestess of the Nekroz
 Arisen Gaia the Fierce Knight
 A Rival Appears!
@@ -865,6 +868,7 @@ Big Piece Golem
 Big Shield Gardna
 Big Umi
 Big Wave Small Wave
+Big Welcome Labrynth
 Big Whale
 BIG Win!?
 Binary Blader
@@ -1379,6 +1383,18 @@ Cemetary Bomb
 Centaur Mina
 Central Shield
 Centrifugal Field
+Centur-Ion Atrii
+Centur-Ion Auxila
+Centur-Ion Bonds
+Centur-Ion Chimerea
+Centur-Ion Emeth VI
+Centur-Ion Gargoyle II
+Centur-Ion Legatia
+Centur-Ion Phalanx
+Centur-Ion Primera
+Centur-Ion Primera Primus
+Centur-Ion Trudea
+Centur-Ion True Awakening
 Cerulean Sacred Phoenix of Nephthys
 Cerulean Skyfire
 Ceruli, Guru of Dark World
@@ -1412,6 +1428,7 @@ Changing Destiny
 Changshi the Spiridao
 Chaos-End Master
 Chaos Ancient Gear Giant
+Chaos Angel
 Chaos Betrayer
 Chaos Bloom
 Chaos Burst
@@ -1670,6 +1687,7 @@ Contract with the Abyss
 Contract with the Dark Master
 Contract with the Void
 Contrast HERO Chaos
+Converging Wishes
 Convert Contact
 Coordius the Triphasic Dealmon
 Copycat
@@ -3017,6 +3035,8 @@ El Shaddoll Shekhinaga
 El Shaddoll Wendigo
 Ember the Hyper Assistant
 Ember the Super Assistant
+Emblema Oath
+Emblema Salvation
 Emblem of Dragon Destroyer
 Emblem of the Awakening
 Embodiment of Apophis
@@ -3314,6 +3334,7 @@ Familiar-Possessed - Lyna
 Familiar-Possessed - Wynn
 Familiar Knight
 Fantastic Striborg
+Farewelcome Labrynth
 Farfa, Malebranche of the Burning Abyss
 Fashion of Faith
 FaSolfachord Fancia
@@ -4005,13 +4026,14 @@ Giant Turtle Who Feeds on Flames
 Giftarist
 Gift Exchange
 Gift of the Martyr
-Gift of the Mystical Elf
 Gift of The Mystical Elf
+Gift of the Mystical Elf
 Giga-Tech Wolf
 Giga Gagagigo
 Gigantes
 Giganticastle
 Gigantic Cephalotus
+Gigantic Spright
 Giganto
 Gigaplant
 Gigarays Gandora the Dragon of Destruction
@@ -4712,6 +4734,7 @@ Hypnosister
 Hysteric Fairy
 Hysteric Party
 Hysteric Sign
+I:P Masquerena
 Ib the World Chalice Priestess
 Icarus Attack
 Ice Beast Zerofyne
@@ -5280,6 +5303,12 @@ Kwagar Hercules
 Kycoo the Ghost Destroyer
 Kyoutou Waterfront
 Labradorite Dragon
+Labrynth Archfiend
+Labrynth Barrage
+Labrynth Chandraglier
+Labrynth Cooclock
+Labrynth Labyrinth
+Labrynth Stovie Torbie
 Labyrinth of Kline
 Labyrinth of Nightmare
 Labyrinth Tank
@@ -5537,6 +5566,7 @@ Lost Blue Breaker
 Lost Guardian
 Lost Wind
 Loud Cloud the Storm Serpent
+Lovely Labrynth of the Silver Castle
 LP Boost Omega
 Lubellion the Searing Dragon
 Lucent, Netherlord of Dark World
@@ -5904,6 +5934,7 @@ Master Craftsman Gamil
 Masterflare Hyperion
 Master Gig
 Master Hyperion
+Masterking Archfiend
 Master Kyonshee
 Master Monk
 Master of Chaos
@@ -6324,6 +6355,7 @@ Mozarta the Melodious Maestra
 Mr. Alchemy
 Mr. Volcano
 Ms. Judge
+Muckraker From the Underworld
 Mucus Yolk
 Mudan the Rikka Fairy
 Mudora
@@ -6557,6 +6589,7 @@ Night Vision the Phantom Pigeon
 Night Wing Sorceress
 Nikitama
 Nimble Angler
+Nimble Beaver
 Nimble Manta
 Nimble Momonga
 Nimble Musasabi
@@ -7632,6 +7665,8 @@ Red Dragon Archfiend/Assault Mode
 Red Dragon Ninja
 Red Dragon Vase
 Red Duston
+Redeemable Jar
+Red Familiar
 Red Gadget
 Red Gardna
 Red Hared Hasty Horse
@@ -7648,6 +7683,7 @@ Red Riser
 Red Rising Dragon
 Red Sparrow Summoner
 Red Sprinter
+Red Supernova Dragon
 Red Supremacy
 Red Warg
 Red Wyvern
@@ -7717,6 +7753,7 @@ Resonance Device
 Resonance Insect
 Resonant Destruction
 Resonator Call
+Resonator Command
 Resonator Engine
 Respect Play
 Restoration of the Monarchs
@@ -8041,6 +8078,8 @@ Satellarknight Zefrathuban
 Satellite Cannon
 Satellite Laser Balsam
 Satellite Soldier
+Satellite Synchron
+Satellite Warrior
 Saturnius' Orb
 Sauge de Fleur
 Sauravis, the Ancient and Ascended
@@ -8063,6 +8102,7 @@ Science Soldier
 Score the Melodious Diva
 Scramble!! Scramble!!
 Scramble Egg
+Scrap-Iron Sacred Statue
 Scrap-Iron Scarecrow
 Scrap-Iron Signal
 Scrap-Iron Statue
@@ -8273,6 +8313,7 @@ Shining Friendship
 Shining Hope Road
 Shining Shaman
 Shining Silver Force
+Shining Star Dragon
 Shinobi Insect Hagakuremino
 Shinobi Necro
 Shinobird Crane
@@ -8495,8 +8536,8 @@ Solar Ray
 Solar Recharge
 Solar Wind Jammer
 Soldier Dragons
-Soldier Gaia The Fierce Knight
 Soldier Gaia the Fierce Knight
+Soldier Gaia The Fierce Knight
 Solemn Authority
 Solemn Scolding
 Solemn Wishes
@@ -8715,6 +8756,16 @@ Sportsdragon Keeper
 Sportsdragon Pitcher
 Sportsdragon Slugger
 Sportsdragon Striker
+Spright Blue
+Spright Carrot
+Spright Double Cross
+Spright Gamma Burst
+Spright Jet
+Spright Pixies
+Spright Red
+Spright Smashers
+Spright Sprind
+Spright Starter
 Sprind the Irondash Dragon
 Springans Blast!
 Springans Booty
@@ -8742,6 +8793,7 @@ Stairway to a Fabled Realm
 Stall Turn
 Stamping Destruction
 Stand In
+Stand Up Centur-Ion!
 Star's Hand Illuminator
 Star Blast
 Star Boy
@@ -8757,6 +8809,8 @@ Stardust Phantom
 Stardust Re-Spark
 Stardust Shimmer
 Stardust Spark Dragon
+Stardust Synchron
+Stardust Trail
 Stardust Warrior
 Stardust Wish
 Stardust Xiaolong
@@ -9164,9 +9218,14 @@ Synchron Carrier
 Synchron Explorer
 Synchronized Realm
 Synchro Overtake
+Synchro Overtop
+Synchro Rumble
 Synchro Soldier
 Synchro Spirits
 Synchro Strike
+Synchro Transcend
+Synchro Transmission
+Synchro World
 Synkron Resonator
 Synthesis Spell
 Synthetic Seraphim
@@ -9272,6 +9331,7 @@ Terrorking Archfiend
 Terrorking Salmon
 Terrors in the Hidden City
 Terrors of the Overroot
+Terrors of the Underroot
 Test Ape
 Test Panther
 Test Tiger
@@ -9593,6 +9653,7 @@ Tin Goldfish
 Tiras, Keeper of Genesis
 TiSolfachord Beautia
 Titaniklad the Ash Dragon
+Titanocider
 Tlakalel, His Malevolent Majesty
 Toad Master
 Togex
@@ -10285,6 +10346,7 @@ Vylon Tetra
 Vylon Vanguard
 W-Wing Catapult
 Wailing of the Unchained Souls
+Wake Up Centur-Ion!
 Wake Up Your Elemental HERO
 Wall of Disruption
 Wall of Illusion
@@ -10362,6 +10424,7 @@ Ween, the Spirit of Treats
 Weeping Idol
 Wee Witch's Apprentice
 Weights & Zenmaisures
+Welcome Labrynth
 Wetha
 Wetlands
 Wheel of Prophecy
