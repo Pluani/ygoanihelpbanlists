@@ -1095,8 +1095,10 @@ Boot Sector Launch
 Boot Staggered
 Borrel Booster
 Borrel Cooling
+Borrelend Dragon
 Borrel Launch
 Borreload Dragon
+Borreload Fatalflare Dragon
 Borreload Furious Dragon
 Borreload Riot Dragon
 Borreload Savage Dragon
@@ -1152,6 +1154,7 @@ Breakthrough!
 Breakthrough Skill
 Breath of Acclamation
 Breath of Light
+Breath of Resurrection
 Brick Phone Nyan Nyan
 Bright Future
 Bright Sentinel
@@ -1372,6 +1375,7 @@ Cave Dragon
 Celebrontosaurus
 Celestia
 Celestia, Lightsworn Angel
+Celestial Apparatus Tesea
 Celestial Ganzel
 Celestial Knightlord Parshath
 Celestial Sword - Eatos
@@ -2643,6 +2647,7 @@ Double Exposure
 Double Fin Shark
 Double Headed Anger Knuckle
 Double Hero Attack
+Double Interlock
 Double Magical Arm Bind
 Double or Nothing!
 Double Payback
@@ -2662,6 +2667,7 @@ Dovelgus, Generaider Boss of Iron
 Downbeat
 Dr. Frankenderp
 Dr. Red Robe
+Dracoback, the Rideable Dragon
 Draco Berserker of the Tenyi
 Dracocension
 Draco Face-Off
@@ -2845,6 +2851,7 @@ Duke Shade, the Sinister Shadow Lord
 Dummy Golem
 Dunames Dark Witch
 Dungeon Worm
+Dunnell, the Noble Arms of Light
 Duoterion
 Duralume, Vaalmonican Heathen Hallow
 Dust Barrier
@@ -3201,6 +3208,7 @@ Evoltile Pleuro
 Evoltile Westlo
 Evolutionary Bridge
 Evolution Burst
+Evolzar Dolkka
 Evolzar Laggia
 Evolzar Lars
 Evolzar Solda
@@ -3302,6 +3310,7 @@ Factory of 100 Machines
 Fairy's Gift
 Fairy's Hand Mirror
 Fairy Archer
+Fairy Archer Ingunar
 Fairy Box
 Fairy Cheer Girl
 Fairy Dragon
@@ -3339,6 +3348,7 @@ Farfa, Malebranche of the Burning Abyss
 Fashion of Faith
 FaSolfachord Fancia
 Fatal Abacus
+Fateful Adventure
 Faustian Bargain
 Favorite Hero
 Fazuzu the King of Mythical Wind Beasts
@@ -3811,8 +3821,8 @@ Galloping Gaia
 Gamble
 Gambler of Legend
 Gamma The Electromagnet Warrior
-Gamma the Magnet Warrior
 Gamma The Magnet Warrior
+Gamma the Magnet Warrior
 Gamushara
 Ganbara Knight
 Ganbara Lancer
@@ -4026,8 +4036,8 @@ Giant Turtle Who Feeds on Flames
 Giftarist
 Gift Exchange
 Gift of the Martyr
-Gift of The Mystical Elf
 Gift of the Mystical Elf
+Gift of The Mystical Elf
 Giga-Tech Wolf
 Giga Gagagigo
 Gigantes
@@ -4781,6 +4791,7 @@ Ignoble Knight of High Laundsallyn
 Ikelos, the Dream Mirror Mara
 Ikelos, the Dream Mirror Sprite
 Il Blud
+Illegal Knight
 Illusion Balloons
 Illusionist Faceless Mage
 Illusion Magic
@@ -5252,6 +5263,7 @@ Koa'ki Meiru War Arms
 Koalo-Koala
 Koitsu
 Kojikocy
+Korogashi
 Kotodama
 Koumori Dragon
 Kozaky
@@ -5762,6 +5774,7 @@ Magicians Unite
 Magician\'s Magic
 Magic Jammer
 Magic Juggler
+Magicore Warrior of the Relics
 Magic Planter
 Magic Reflector
 Magic Triangle of the Ice Barrier
@@ -7200,6 +7213,7 @@ Pinecono
 Pinpoint Guard
 Pinpoint Landing
 Piranha Army
+Piri Reis Map
 Pitch-Black Power Stone
 Pitch-Black Warwolf
 Pitch-Dark Dragon
@@ -7505,6 +7519,18 @@ Raging Eria
 Raging Flame Sprite
 Raging Mad Plants
 Raging Storm Dragon - Beaufort IX
+Ragnaraika Armored Lizard
+Ragnaraika Bloom
+Ragnaraika Chain Coils
+Ragnaraika Hunting Dance
+Ragnaraika Mantis Monk
+Ragnaraika Samurai Beetle
+Ragnaraika Selene Snapper
+Ragnaraika Skeletal Soldier
+Ragnaraika Stag Sovereign
+Ragnaraika the Evil Seed
+Ragnaraika Wicked Butterfly
+Ragnaraika Wisteria of Woe
 Rai-Jin
 Rai-Mei
 Raidacross, Hero of the Dawn
@@ -7837,6 +7863,7 @@ Rising HERO Manaccaniter
 Rising HERO Tantalum
 Rising Light Angel Essel
 Rising Sun Slash
+Rite of Aramesir
 Rite of Spirit
 Ritual Beast's Bond
 Ritual Beast Ambush
@@ -7891,6 +7918,9 @@ Rod of the Mind's Eye
 Rogue Doll
 Rogue of Archfiend
 Rogue of Endymion
+Rokket Caliber
+Rokket Detonator
+Rokket Loader
 Rokket Recharger
 Rokket Reload
 Rokket Synchron
@@ -8536,8 +8566,8 @@ Solar Ray
 Solar Recharge
 Solar Wind Jammer
 Soldier Dragons
-Soldier Gaia the Fierce Knight
 Soldier Gaia The Fierce Knight
+Soldier Gaia the Fierce Knight
 Solemn Authority
 Solemn Scolding
 Solemn Wishes
@@ -8825,6 +8855,7 @@ Starliege Seyfert
 Star Light, Star Bright
 Starlight Junktion
 Starlight Road
+Starlit Papillon
 Star Mine
 Star Replacer
 Star Restart
@@ -9587,6 +9618,7 @@ Thunderbeetle Snare
 Thunder Cavalry Triggerdrago
 Thunderclap Skywolf
 Thunder Crash
+Thunder Discharge
 Thunder Dragon
 Thunder Dragon Colossus
 Thunder Dragondark
@@ -9866,6 +9898,7 @@ Triple Threat Thunder
 Triple Trio
 Tripod Fish
 Tripwire Beast
+Trisborrel Dragon
 Trishula, Dragon of the Ice Barrier
 Trishula, the Dragon of Icy Imprisonment
 Trishula, Zero Dragon of the Ice Barrier
@@ -10353,6 +10386,7 @@ Wall of Illusion
 Wall of Ivy
 Wall of Thorns
 Wall Shadow
+Wandering Gryphon Rider
 Wandering King Wildwind
 Wandering Mummy
 War-Lion Ritual
@@ -10383,6 +10417,7 @@ Water Dragon
 Water Dragon Cluster
 Waterdragon Fairy
 Water Element
+Water Enchantress of the Temple
 Waterfall of Dragon Souls
 Water Girl
 Water Hazard
