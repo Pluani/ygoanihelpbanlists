@@ -607,6 +607,7 @@ Attack of the Cornered Rat
 Attack Pheromones
 Attack Reflector Unit
 Attack the Moon!
+Attract Golem
 Attraffic Control
 Attrashoot Hydron
 Attribute Bomb
@@ -1532,6 +1533,7 @@ Chthonian Blast
 Chthonian Polymer
 Chthonian Soldier
 Chu-Ske the Mouse Fighter
+Ciela, the Knight of Skysavior
 Cipher Biplane
 Cipher Bit
 Cipher Etranger
@@ -2095,6 +2097,7 @@ Dancing Fairy
 Dangerous Frightfur Nightmary
 Dangerous Machine Type-6
 Danipon
+Dankus, the Knight of Skysavior
 Dante, Traveler of the Burning Abyss
 Dark-Eyes Illusionist
 Dark-Piercing Light
@@ -2321,6 +2324,7 @@ Defense Maiden
 Defrag Dragon
 Degen-Force
 Degenerate Circuit
+Degrace, the Flash Skysavior
 Degrade Buster
 Dekoichi the Battlechanted Locomotive
 Delg the Dark Monarch
@@ -2414,6 +2418,13 @@ Destruction Ring
 Destruction Sword Memories
 Destruction Swordsman Fusion
 Destructive Draw
+Destructor Emperor Bakhakaiser
+Destructor Integration Scrap Gate
+Destructor Soldier Bokka
+Destructor Soldier Canteen
+Destructor Soldier Helmet
+Destructor Soldier Knikka
+Destructor Wyrm Bakhamut
 Destructotron
 Destruct Potion
 Des Volstgalph
@@ -2848,6 +2859,7 @@ Duck Fighter
 Duel Academy
 Duelittle Chimera
 Duke Shade, the Sinister Shadow Lord
+Dulkmua, the Phantom Skysavior
 Dummy Golem
 Dunames Dark Witch
 Dungeon Worm
@@ -3255,6 +3267,7 @@ Expendable Dai
 Exploder Dragon
 Exploder Dragonwing
 Exploderokket Dragon
+Explosive Destructor Wyrm Dangerous Bakhamut
 Explosive Magician
 Explosive Urchin
 Explossum
@@ -3266,6 +3279,7 @@ Extox Hydra
 Extra Buck
 Extraceratops
 Extra Gate
+Extra Meat the Special Noodle Ninja
 Extra Net
 Extra Plorer
 Extra Spice the Elite Noodle Ninja
@@ -3821,8 +3835,8 @@ Galloping Gaia
 Gamble
 Gambler of Legend
 Gamma The Electromagnet Warrior
-Gamma The Magnet Warrior
 Gamma the Magnet Warrior
+Gamma The Magnet Warrior
 Gamushara
 Ganbara Knight
 Ganbara Lancer
@@ -4414,6 +4428,7 @@ Guerilla Kite
 Guiding Light
 Guitar Gurnards Duonigis
 Guldfaxe of the Nordic Beasts
+Gulflare, the Skysavior
 Gundari
 Gungnir, Dragon of the Ice Barrier
 Gunkan Suship Catch-of-the-Day
@@ -4899,6 +4914,7 @@ Infestation Wave
 Infinite Cards
 Infinite Constructor Wyrm Buildream
 Infinite Dismissal
+Infinite Heavy Cavalry Buildragoon
 Infinite Light
 Infinite Machine
 Infinite Power of the Timelords
@@ -4920,6 +4936,7 @@ Informer Spider
 Inherited Fortune
 Injection Fairy Lily
 Inmato
+Innocent Fadrawl
 Innocent Lancer
 Inpachi
 Insect Armor with Laser Cannon
@@ -5346,6 +5363,7 @@ Lancer Dragonute
 Lancer Lindwurm
 Landoise's Luminous Moss
 Landrobe the Rock Vassal
+Langa, the Knight of Skysavior
 LANphorhynchus
 Lantern Shark
 Lappis Dragon
@@ -5580,6 +5598,7 @@ Lost Wind
 Loud Cloud the Storm Serpent
 Lovely Labrynth of the Silver Castle
 LP Boost Omega
+Lua, the Fairy of Skysavior
 Lubellion the Searing Dragon
 Lucent, Netherlord of Dark World
 Lucius the Shadow Vassal
@@ -6137,6 +6156,8 @@ Metaphys Horus
 Metaphys Nephthys
 Metaphys Tyrant Dragon
 Metarion Ashurastar
+Metarion Fusion
+Metarion Geniustar
 Metarion Herculestar
 Metarion King Cobrastar
 Metarion Ladonstar
@@ -7122,6 +7143,7 @@ Petit Moth
 Phalanx Pike
 Phantasmal Lord Ultimitl Bishbaalkin
 Phantasm Emperor Trilojig
+Phantasm Maskmaster
 Phantasm Spiral Assault
 Phantasm Spiral Battle
 Phantasm Spiral Crash
@@ -8024,6 +8046,7 @@ Sacred Sword of Seven Stars
 Sacred Tower in Collapse
 Sacred Tree Beast, Hyperyton
 Sadion, the Timelord
+Sael, the Knight of Skysavior
 Saffira, Queen of Dragons
 Saga of the Dragon Emperor
 Sage's Stone
@@ -8498,6 +8521,8 @@ Sky Dragoons of Draconia
 Sky Galloping Gaia the Dragon Champion
 Sky Iris
 Skypalace Gangaridai
+Skysavior Prayer
+Skysavior Watch
 Sky Scourge Enrise
 Sky Scourge Invicil
 Sky Scout
@@ -8565,9 +8590,11 @@ Solar Flare Dragon
 Solar Ray
 Solar Recharge
 Solar Wind Jammer
+Solciere, the Radiant Skysavior
 Soldier Dragons
 Soldier Gaia The Fierce Knight
 Soldier Gaia the Fierce Knight
+Soleil, the Fairy of Skysavior
 Solemn Authority
 Solemn Scolding
 Solemn Wishes
@@ -8775,6 +8802,7 @@ Spiritualism
 Spiritual Light Art - Hijiri
 Spiritual Whisper
 Spiritual Wind Art - Miyabi
+Splame
 Splash Capture
 Splash Mage
 Splendid Rose
@@ -8857,6 +8885,7 @@ Starlight Junktion
 Starlight Road
 Starlit Papillon
 Star Mine
+Star of Beginning
 Star Replacer
 Star Restart
 Starring Knight
@@ -10570,6 +10599,7 @@ Wisel Guard 3
 Wisel Top
 Wisel Top 3
 Wiseman's Chalice
+Wish of the Skysavior
 Witch's Apprentice
 Witchcrafter Collaboration
 Witchcrafter Creation
