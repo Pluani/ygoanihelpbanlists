@@ -132,8 +132,6 @@ Akakieisu
 Akihiron
 Akz, the Pumer
 Al-Lumi'raj
-Alba-Lenatus the Abyss Dragon
-Albaz the Ashen
 Albion the Branded Dragon
 Albion the Shrouded Dragon
 Alchemic Magician
@@ -474,7 +472,6 @@ Arcjet Lightcraft
 Arc Rebellion Xyz Dragon
 Ariane the Labrynth Servant
 Arianna the Labrynth Servant
-Arias the Labrynth Butler
 Ariel, Priestess of the Nekroz
 Arisen Gaia the Fierce Knight
 A Rival Appears!
@@ -892,7 +889,6 @@ Bite Shoes
 Bitron
 Bitrooper
 Bixi, Water of the Yang Zing
-Black-Winged Assault Dragon
 Black-Winged Dragon
 Black-Winged Strafe
 Black and White Wave
@@ -907,7 +903,6 @@ Black Dragon Collapserpent
 Black Dragon Ninja
 Black Feather Beacon
 Blackfeather Darkrage Dragon
-Black Feather Whirlwind
 Black Illusion
 Black Illusion Ritual
 Blackland Fire Dragon
@@ -929,7 +924,6 @@ Black Return
 Black Rose Dragon
 Black Rose Moonlight Dragon
 Black Salvo
-Black Shadow Squall
 Black Skull Dragon
 Black Sonic
 Black Stego
@@ -945,11 +939,9 @@ Blackwing - Bombardment
 Blackwing - Boobytrap
 Blackwing - Bora the Spear
 Blackwing - Boreas the Sharp
-Blackwing - Boreastorm the Wicked Wind
 Blackwing - Breeze the Zephyr
 Blackwing - Brisote the Tailwind
 Blackwing - Calima the Haze
-Blackwing - Chinook the Snow Blast
 Blackwing - Damascus the Polar Night
 Blackwing - Decay the Ill Wind
 Blackwing - Elphin the Raven
@@ -973,20 +965,14 @@ Blackwing - Mistral the Silver Shield
 Blackwing - Nothung the Starlight
 Blackwing - Oroshi the Squall
 Blackwing - Pinaki the Waxing Moon
-Blackwing - Shamal the Sandstorm
-Blackwing - Sharnga the Waning Moon
 Blackwing - Shura the Blue Flame
 Blackwing - Silverwind the Ascendant
 Blackwing - Simoon the Poison Wind
 Blackwing - Sirocco the Dawn
 Blackwing - Steam the Cloak
-Blackwing - Sudri the Phantom Glimmer
 Blackwing - Tornado the Reverse Wind
-Blackwing - Twin Shadow
-Blackwing - Vata the Emblem of Wandering
 Blackwing - Vayu the Emblem of Honor
 Blackwing - Zephyros the Elite
-Blackwing - Zonda the Dusk
 Blackwing Armed Wing
 Blackwing Armor Master
 Black Wing Revenge
@@ -1015,7 +1001,6 @@ Blaze Accelerator
 Blaze Cannon
 Blaze Fenix, the Burning Bombardment Bird
 Blazewing Butterfly
-Blazing Cartesia, the Virtuous
 Blazing Hiita
 Blazing Inpachi
 Blessed Winds
@@ -1050,7 +1035,6 @@ Blue-Eyed Silver Zombie
 Blue-Eyes Abyss Dragon
 Blue-Eyes Alternative White Dragon
 Blue-Eyes Bright Dragon
-Blue-Eyes Chaos Dragon
 Blue-Eyes Jet Dragon
 Blue-Eyes Shining Dragon
 Blue-Eyes Solid Dragon
@@ -1148,19 +1132,14 @@ Brain Jacker
 Brain Research Lab
 Brainwashing Beam
 Branch!
-Branded Banishment
-Branded Beast
 Branded Bond
 Branded Disciple
 Branded Fusion
-Branded in Central Dogmatika
 Branded in High Spirits
 Branded in Red
 Branded in White
-Branded Loss
 Branded Lost
 Branded Opening
-Branded Regained
 Branded Retribution
 Branded Sword
 Brassaxophone the Music Princess
@@ -1310,10 +1289,6 @@ Buzzsaw Shark
 By Order of the Emperor
 Byroad Sacrifice
 Byser Shock
-Bystial Baldrake
-Bystial Druiswurm
-Bystial Magnamhut
-Bystial Saronir
 C-Crush Wyvern
 Caam, Serenity of Gusto
 Cabrera Stone
@@ -1624,11 +1599,9 @@ Cocoon Rebirth
 Cocoon Veil
 Codarus
 Code A Ancient Ruins
-Code Generator
 Code Radiator
 Code Talker
 Code Talker Alive
-Code Talker Inverted
 Coevolutionary Miracle
 Coffin Seller
 Coilephant
@@ -2006,15 +1979,11 @@ Cyclone Boomerang
 Cyclon Laser
 Cycroid
 Cynet Backdoor
-Cynet Codec
-Cynet Conflict
 Cynet Crosswipe
 Cynet Fusion
 Cynet Mining
-Cynet Optimization
 Cynet Refresh
 Cynet Ritual
-Cynet Universe
 Cú Chulainn the Awakened
 D-Boyz
 D - Chain
@@ -2325,7 +2294,6 @@ Debris Dragon
 Debunk
 Decayed Commander
 Decode Talker
-Decode Talker Extended
 Decode Talker Heatsoul
 Decoy Dragon
 Decoyroid
@@ -2472,7 +2440,6 @@ Dewloren, Tiger King of the Ice Barrier
 Dharc the Dark Charmer
 Dharma-Eye Magician
 Dharma Cannon
-Diabellstar the Black Witch
 Diabolantis the Menacing Mantis
 Diabolic King Beetle
 Diabolos, King of the Abyss
@@ -2591,7 +2558,6 @@ Divine Knight Ishzark
 Divine Punishment
 Divine Relic Mjollnir
 Divine Sword - Phoenix Blade
-Divine Temple of the Snake-Eye
 Divine Wind of Mist Valley
 Divine Wrath
 Dizzying Winds of Yosen Village
@@ -2635,7 +2601,6 @@ Dogmatika Nation
 Dogmatika Nexus
 Dogmatika Punishment
 Dogmatika Theo, the Iron Punch
-Dogmatikaturgy
 Dogoran, the Mad Flame Kaiju
 Dogu
 Doitsu
@@ -3870,8 +3835,8 @@ Galloping Gaia
 Gamble
 Gambler of Legend
 Gamma The Electromagnet Warrior
-Gamma The Magnet Warrior
 Gamma the Magnet Warrior
+Gamma The Magnet Warrior
 Gamushara
 Ganbara Knight
 Ganbara Lancer
@@ -4085,8 +4050,8 @@ Giant Turtle Who Feeds on Flames
 Giftarist
 Gift Exchange
 Gift of the Martyr
-Gift of The Mystical Elf
 Gift of the Mystical Elf
+Gift of The Mystical Elf
 Giga-Tech Wolf
 Giga Gagagigo
 Gigantes
@@ -4324,7 +4289,6 @@ Grandtusk Dragon
 Granel Attack
 Granel Carrier
 Granel Top
-Granguignol the Dusk Dragon
 Granmarg the Mega Monarch
 Granmarg the Rock Monarch
 GranSolfachord Coolia
@@ -4915,7 +4879,6 @@ Infernity Necromancer
 Infernity Paranoia
 Infernity Patriarch
 Infernity Pawn
-Infernity Queen
 Infernity Randomizer
 Infernity Reflector
 Infernity Sage
@@ -5374,7 +5337,6 @@ Labrynth Barrage
 Labrynth Chandraglier
 Labrynth Cooclock
 Labrynth Labyrinth
-Labrynth Set-Up
 Labrynth Stovie Torbie
 Labyrinth of Kline
 Labyrinth of Nightmare
@@ -5781,7 +5743,6 @@ Magical King Moonstar
 Magical Labyrinth
 Magical Mallet
 Magical Marionette
-Magical Meltdown
 Magical Merchant
 Magical Musket - Cross-Domination
 Magical Musket - Dancing Needle
@@ -6944,7 +6905,6 @@ Orea, the Sylvan High Arbiter
 Orgoth the Relentless
 Orichalcos Shunoros
 Orient Dragon
-Original Sinful Spoils - Snake-Eye
 Orion the Battle King
 Oscillo Hero
 Oshaleon
@@ -7427,7 +7387,6 @@ Prior of the Ice Barrier
 Prisman
 Progleo
 Prometeor, the Burning Star
-Promethean Princess, Bestower of Flames
 Prometheus, King of the Shadows
 Prominence, Molten Swordsman
 Prominence Hand
@@ -8512,9 +8471,6 @@ Simorgh, Bird of Protection
 Simorgh of Darkness
 Simorgh Onslaught
 Simultaneous Loss
-Sinful Spoils of Betrayal - Silvera
-Sinful Spoils of Doom - Rciela
-Sinful Spoils of Subversion - Snake-Eye
 Single Purchase
 Sinister Seeds
 Sinister Serpent
@@ -8608,11 +8564,6 @@ Smashing Horn
 Smile Potion
 Smile World
 Smoke Grenade of the Thief
-Snake-Eye Ash
-Snake-Eye Birch
-Snake-Eye Oak
-Snake-Eyes Flamberge Dragon
-Snake-Eyes Poplar
 Snake Clown
 Snake Deity's Command
 Snake Fang
@@ -8641,8 +8592,8 @@ Solar Recharge
 Solar Wind Jammer
 Solciere, the Radiant Skysavior
 Soldier Dragons
-Soldier Gaia the Fierce Knight
 Soldier Gaia The Fierce Knight
+Soldier Gaia the Fierce Knight
 Soleil, the Fairy of Skysavior
 Solemn Authority
 Solemn Scolding
@@ -8957,7 +8908,6 @@ Star Seraph Sovereignty
 Star Seraph Sword
 Starship Spy Plane
 Star Siphon
-Startling Stare of the Snake-Eyes
 Star Traleo
 Star Trancer
 Starving Venom Fusion Dragon
@@ -9303,8 +9253,6 @@ Symbols of Duty
 Symph Amplifire
 Symphonic Warrior Basses
 Symphonic Warrior Drumss
-Symphonic Warrior Guitaar
-Symphonic Warrior Miccs
 Symphonic Warrior Piaano
 Symphonic Warrior Synthess
 Synchar
@@ -9481,8 +9429,6 @@ The Big Saturn
 The Bistro Butcher
 The Black Stone of Legend
 The Blazing Mars
-The Bystial Alba Los
-The Bystial Lubellion
 The Calculator
 The Calibrator
 The Cheerful Coffin
@@ -9674,7 +9620,6 @@ The Winged Dragon of Ra - Sphere Mode
 The World Legacy
 The World Tree
 The Wyvern
-This Creepy Little Punk
 Thor, Lord of the Aesir
 Thorn of Malice
 Thought Ruler Archfiend
@@ -9715,7 +9660,6 @@ Thunder Dragonmatrix
 Thunder Dragonroar
 Thunder Dragons' Hundred Thunders
 Thunder Dragon Thunderstormech
-Thunder Dragon Titan
 Thunder End Dragon
 Thunder Gazelle
 Thunder Kid
@@ -9862,7 +9806,6 @@ Transcendosaurus Gigantozowler
 Transcendosaurus Glaciasaurus
 Transcendosaurus Meteorus
 Transcicada
-Transcode Talker
 Transforming Sphere
 Transmigration Break
 Transmodify
@@ -9870,7 +9813,6 @@ Transonic Bird
 Trap Eater
 Trap Hole
 Trap Hole of Spikes
-Trap Holic
 Trap Jammer
 Trap Master
 Trap of Board Eraser
@@ -9981,7 +9923,6 @@ Triggering Wurm
 Trigon
 Triple Burst Dragon
 Triple Star Trion
-Triple Tactics Thrust
 Triple Threat Thunder
 Triple Trio
 Tripod Fish
@@ -10477,7 +10418,6 @@ Wall Shadow
 Wandering Gryphon Rider
 Wandering King Wildwind
 Wandering Mummy
-WANTED: Seeker of Sinful Spoils
 War-Lion Ritual
 Warlock of the Ice Barrier
 Warm Worm
