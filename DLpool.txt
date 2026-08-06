@@ -2,6 +2,8 @@
 "A" Cell Incubator
 "A" Cell Recombination Device
 "A" Cell Scatter Burst
+"error":"code":"internal_api_error_DBConnectionError","info":"[0f470c62a89d81b42e2b45eb Exception caught: A database query error has occurred. This may indicate a bug in the software.
+"error":"code":"internal_api_error_DBConnectionError","info":"[06e0445778618f8361c106ba Exception caught: A database query error has occurred. This may indicate a bug in the software.
 "Infernoble Arms - Durendal"
 "Infernoble Arms - Hauteclere"
 "Infernoble Arms - Joyeuse"
