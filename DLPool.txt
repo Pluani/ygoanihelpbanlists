@@ -3872,8 +3872,8 @@ Galloping Gaia
 Gamble
 Gambler of Legend
 Gamma The Electromagnet Warrior
-Gamma The Magnet Warrior
 Gamma the Magnet Warrior
+Gamma The Magnet Warrior
 Gamushara
 Ganbara Knight
 Ganbara Lancer
@@ -4021,6 +4021,7 @@ Genomix Fighter
 Gentlemander
 Geo Genex
 Geomancer of the Ice Barrier
+Geomathmech Final Sigma
 Geomathmech Magma
 Germalewe
 Germ Infection
@@ -4087,8 +4088,8 @@ Giant Turtle Who Feeds on Flames
 Giftarist
 Gift Exchange
 Gift of the Martyr
-Gift of The Mystical Elf
 Gift of the Mystical Elf
+Gift of The Mystical Elf
 Giga-Tech Wolf
 Giga Gagagigo
 Gigantes
@@ -5941,8 +5942,8 @@ Malicevorous Spoon
 Mammoth Graveyard
 Mamonaka the Vaylantz United
 Man-Eater Bug
-Man-Eating Black Shark
 Man-eating Black Shark
+Man-Eating Black Shark
 Man-Eating Plant
 Man-Eating Treasure Chest
 Man-Thro' Tro'
@@ -5961,10 +5962,24 @@ March Towards Ragnarok
 Mardel, Generaider Boss of Light
 Mare Mare
 Marina, Princess of Sunflowers
+Marincess Aqua Argonaut
+Marincess Basilalima
+Marincess Battle Ocean
+Marincess Blue Slug
+Marincess Blue Tang
+Marincess Cascade
 Marincess Coral Anemone
+Marincess Coral Triangle
+Marincess Crystal Heart
+Marincess Dive
+Marincess Pascalus
+Marincess Sea Angel
 Marincess Sea Horse
 Marincess Sea Star
+Marincess Springirl
 Marincess Transcend
+Marincess Wave
+Marincess Wonder Heart
 Marine Beast
 Marionette Mite
 Marmiting Captain
@@ -6019,9 +6034,15 @@ Master with Eyes of Blue
 Mataza the Zapper
 Mathmech Addition
 Mathmech Billionblade Nayuta
+Mathmech Diameter
+Mathmech Division
 Mathmech Equation
 Mathmech Induction
+Mathmech Multiplication
+Mathmech Nabla
+Mathmech Sigma
 Mathmech Subtraction
+Mathmech Superfactorial
 Matriarch of Nephthys
 Mausoleum of the Emperor
 Mausoleum of White
@@ -6437,6 +6458,7 @@ Mudora
 Mudragon of the Swamp
 Muka Muka
 Muko
+Mulcharmy Purulia
 Multiple
 Multiple Piece Golem
 Multiplication of Ants
@@ -7413,9 +7435,11 @@ Prima Guitarna the Shining Superstar
 Primal Cry
 Primal Dragon, the Primordial
 Primal Howling
+Primathmech Laplacian
 Prime Material Dragon
 Prime Material Falcon
 Primitive Butterfly
+Primitive Planet Reichphobia
 Primordial Soup
 Primula the Rikka Fairy
 Princess Cologne
@@ -8184,6 +8208,15 @@ Savage Colosseum
 Scab Scarknight
 Scanner
 Scapeghost
+Scareclaw Acro
+Scareclaw Arrival
+Scareclaw Astra
+Scareclaw Belone
+Scareclaw Light-Heart
+Scareclaw Reichheart
+Scareclaw Sclash
+Scareclaw Straddle
+Scareclaw Tri-Heart
 Scarlet Security
 Scarlight Red Dragon Archfiend
 Scarm, Malebranche of the Burning Abyss
@@ -8643,8 +8676,8 @@ Solar Recharge
 Solar Wind Jammer
 Solciere, the Radiant Skysavior
 Soldier Dragons
-Soldier Gaia the Fierce Knight
 Soldier Gaia The Fierce Knight
+Soldier Gaia the Fierce Knight
 Soleil, the Fairy of Skysavior
 Solemn Authority
 Solemn Scolding
@@ -10131,6 +10164,7 @@ Ultimate Leo Utopia Ray
 Ultimate Obedient Fiend
 Ultimate Providence
 Ultimate Tyranno
+Ultimaya Tzolkin
 Ultra Evolution Pill
 Ultra Polymerization
 Umbral Horror Ghost
@@ -10365,6 +10399,7 @@ Virtual World Oto-Hime - Toutou
 Virtual World Roshi - Laolao
 Virtual World Xiezhi - Jiji
 Virus Cannon
+Visas Starfrost
 Viscom Nanotron
 Viser Des
 Vishwar Randi
