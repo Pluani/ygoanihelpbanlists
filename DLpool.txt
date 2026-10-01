@@ -428,6 +428,10 @@ Aqua Snake
 Aqua Sorcerer
 Aqua Spirit
 Aqua Story - Urashima
+arakuri Bushi mdl 6318 "Muzanichiha
+arakuri Muso mdl 818 "Haipa
+arakuri Ninja mdl 339 "Sazank
+arakuri Ninja mdl 7749 "Nanashick
 Aratama
 Arcana Call
 Arcana Force EX - The Dark Ruler
@@ -447,6 +451,7 @@ Arcane Archer of the Forest
 Arcane Barrier
 Arcanite Magician
 Arcanite Magician/Assault Mode
+Archfiend's Advent
 Archfiend's Ascent
 Archfiend's Awakening
 Archfiend's Call
@@ -1344,6 +1349,7 @@ Candle of Fate
 Caninetaur
 Cannonball Spear Shellfish
 Canon the Melodious Diva
+Canopic Protector
 Canyon
 Capacitor Stalker
 Capricious Darklord
@@ -1454,6 +1460,7 @@ Chakra
 Chamber Dragonmaid
 Chamberlain of the Six Samurai
 Champion's Vigilance
+Change of Hero - Reflector Ray
 Changer Synchron
 Change Slime
 Changing Destiny
@@ -1924,6 +1931,7 @@ Cyber Barrier Dragon
 Cyber Blader
 Cyber Commander
 Cyberdark Cannon
+Cyberdark Chimera
 Cyberdark Claw
 Cyberdark Dragon
 Cyberdark Edge
@@ -1931,6 +1939,8 @@ Cyberdark Horn
 Cyberdark Impact!
 Cyberdark Keel
 Cyberdarkness Dragon
+Cyberdark Realm
+Cyberdark Wurm
 Cyber Dinosaur
 Cyber Dragon
 Cyber Dragon Core
@@ -1949,6 +1959,7 @@ Cyber Esper
 Cyber Falcon
 Cyber Gymnast
 Cyber Harpie Lady
+Cyber Jormungardr
 Cyber Kirin
 Cyber Laser Dragon
 Cyberload Fusion
@@ -2232,6 +2243,7 @@ Dark Lucius LV4
 Dark Lucius LV6
 Dark Lucius LV8
 Dark Magical Circle
+Dark Magical Curtain
 Dark Magic Attack
 Dark Magic Curtain
 Dark Magic Expanded
@@ -2239,11 +2251,14 @@ Dark Magician
 Dark Magician's Curtain
 Dark Magician Girl
 Dark Magician Girl the Dragon Knight
+Dark Magician Girl the Magician's Apprentice
 Dark Magician Knight
 Dark Magician of Chaos
 Dark Magician the Dragon Knight
 Dark Magician the Knight of Dragon Magic
+Dark Magician the Magician of Black Magic
 Dark Magic Inheritance
+Dark Magic Mirror Force
 Dark Magic Twin Burst
 Dark Magic Veil
 Dark Mambele
@@ -2326,6 +2341,7 @@ Deal of Phantom
 Debris Dragon
 Debunk
 Decayed Commander
+Decisive Battle of Golgonda
 Decode Talker
 Decode Talker Extended
 Decode Talker Heatsoul
@@ -2890,6 +2906,7 @@ Dual Avatar Fists - Yuhi
 Dual Avatar Invitation
 Dual Avatar Return
 Dual Coratlus
+Duamutef, Blessing of Horus
 Duck Dummy
 DUCKER Mobile Cannon
 Duck Fighter
@@ -3045,8 +3062,10 @@ Elemental HERO Prisma
 Elemental HERO Pulse Neos
 Elemental HERO Rampart Blaster
 Elemental HERO Shining Flare Wingman
+Elemental HERO Shining Neos Wingman
 Elemental HERO Solid Soldier
 Elemental HERO Sparkman
+Elemental HERO Spirit of Neos
 Elemental HERO Steam Healer
 Elemental HERO Storm Neos
 Elemental HERO Stratos
@@ -3118,6 +3137,7 @@ Empress\'s Staff
 Emptiness Transforms into the Infinite!
 Empty, Infinite, and Infinite Light
 Empty Machine
+EN - Engage Neo Space
 Enchanted Javelin
 Enchanting Fitting Room
 Enchanting Mermaid
@@ -3134,13 +3154,16 @@ Energy Bravery
 Energy Drain
 Enervating Mist
 Engraver of the Mark
+Enigmaster Packbit
 Enigmatic Princess of Eternal Heaven
 Enishi, Shien's Chancellor
 Enlightenment
 Enlightenment Paladin
 Enraged Battle Ox
 Enraged Muka Muka
+EN Shuffle
 Envoy of Chaos
+EN Wave
 Equipment of Ascension
 Equip Shot
 Eradicating Aerosol
@@ -3401,6 +3424,7 @@ FaSolfachord Fancia
 Fatal Abacus
 Fateful Adventure
 Faustian Bargain
+Favorite Contact
 Favorite Hero
 Fazuzu the King of Mythical Wind Beasts
 Fear from the Dark
@@ -3768,6 +3792,7 @@ Future Diviner
 Future Fusion
 Future Glow
 Future Samurai
+Future Silence
 G.B. Hunter
 Gaap the Divine Soldier
 Gabrion, the Timelord
@@ -3779,6 +3804,7 @@ Gadget Driver
 Gadget Gamer
 Gadget Hauler
 Gadget Soldier
+Gadget Trio
 Gagaga Academy Emergency Network
 Gagagaback
 Gagagabolt
@@ -3872,11 +3898,12 @@ Galloping Gaia
 Gamble
 Gambler of Legend
 Gamma The Electromagnet Warrior
-Gamma the Magnet Warrior
 Gamma The Magnet Warrior
+Gamma the Magnet Warrior
 Gamushara
 Ganbara Knight
 Ganbara Lancer
+Gandora-G the Dragon of Destruction
 Gandora-X the Dragon of Demolition
 Gandora the Dragon of Destruction
 Ganigumo
@@ -4088,8 +4115,8 @@ Giant Turtle Who Feeds on Flames
 Giftarist
 Gift Exchange
 Gift of the Martyr
-Gift of the Mystical Elf
 Gift of The Mystical Elf
+Gift of the Mystical Elf
 Giga-Tech Wolf
 Giga Gagagigo
 Gigantes
@@ -4613,6 +4640,7 @@ Helmer, Helmsman Fur Hire
 Helping Robo for Combat
 Helpoemer
 Helshaddoll Hollow
+Heosvarog the Mechanical Dawn
 Heraldic Beast Aberconway
 Heraldic Beast Amphisbaena
 Heraldic Beast Basilisk
@@ -4636,6 +4664,7 @@ Heritage of the Chalice
 Hermit's Soul
 Hermit of Prophecy
 HERO's Bond
+Hero's Rule 1: Five Freedoms
 Hero's Rule 2
 Hero Barrier
 Hero Blast
@@ -4735,6 +4764,7 @@ Horn of the Unicorn
 Horse of the Floral Knights
 Horseytail
 Horus' Servant
+Horus the Black Flame Deity
 Horus the Black Flame Dragon LV4
 Horus the Black Flame Dragon LV6
 Horus the Black Flame Dragon LV8
@@ -4877,6 +4907,7 @@ Imperial Tombs of Necrovalley
 Imprisoned Beautiful Witch
 Imprisoned Queen Archfiend
 Imprudent Intrusion
+Imsety, Glory of Horus
 Inaba White Rabbit
 Inari Fire
 Incandescent Ordeal
@@ -4925,6 +4956,9 @@ Infernity Sage
 Infernity Suppression
 Infernity Wildcat
 Inferno
+Infernoble Arms - Durendal
+Infernoble Arms - Hauteclere
+Infernoble Arms - Joyeuse
 Infernoble Knight - Renaud
 Infernoble Knight - Roland
 Infernoble Knight Astolfo
@@ -4989,6 +5023,7 @@ Insect Queen
 Insect Soldiers of the Sky
 Inspection
 Inspiration
+Instant Contact
 Instant Neo Space
 Intercept
 Interceptomato
@@ -5265,6 +5300,7 @@ King's Consonance
 King's Knight
 King's Majesty
 King's Reward
+King's Sarcophagus
 King's Synchro
 King Dragun
 King Fog
@@ -5942,8 +5978,8 @@ Malicevorous Spoon
 Mammoth Graveyard
 Mamonaka the Vaylantz United
 Man-Eater Bug
-Man-eating Black Shark
 Man-Eating Black Shark
+Man-eating Black Shark
 Man-Eating Plant
 Man-Eating Treasure Chest
 Man-Thro' Tro'
@@ -6148,6 +6184,24 @@ Meliae of the Trees
 Melodious Illusion
 Melomelody the Brass Djinn
 Meltiel, Sage of the Sky
+Mementoal Tecuhtlica - Combined Creation
+Mementomictlan
+Mementomictlan Tecuhtlica - Creation King
+Mementotlan-Horned Dragon
+Mementotlan Akihiron
+Mementotlan Angwitch
+Mementotlan Bone Back
+Mementotlan Bone Party
+Mementotlan Cranium Burst
+Mementotlan Dark Blade
+Mementotlan Fracture Dance
+Mementotlan Fusion
+Mementotlan Ghattic
+Mementotlan Goblin
+Mementotlan Mace
+Mementotlan Shleepy
+Mementotlan Tatsunootoshigo
+Mementotlan Twin Dragon
 Memory Crusher
 Memory Crush King
 Memory Loss
@@ -6243,6 +6297,7 @@ Meteor of Destruction
 Meteor Swarm Dragon
 Metrognome
 Mezuki
+Miasma Necromancer
 Michael, the Arch-Lightsworn
 Michion, the Timelord
 Michizure
@@ -6302,6 +6357,7 @@ Minor Goblin Official
 Miracle's Wake
 Miracle Contact
 Miracle Dig
+Miracle Ejector
 Miracle Fertilizer
 Miracle Flipper
 Miracle Fusion
@@ -6322,6 +6378,7 @@ Mira the Star-Bearer
 Mirror Force
 Mirror Force Dragon
 Mirror Force Launcher
+Mirror Gate
 Mirrorjade the Iceblade Dragon
 Mirror Ladybug
 Mirror Mail
@@ -6458,6 +6515,7 @@ Mudora
 Mudragon of the Swamp
 Muka Muka
 Muko
+Mulcharmy Fuwalos
 Mulcharmy Purulia
 Multiple
 Multiple Piece Golem
@@ -6970,6 +7028,7 @@ Orichalcos Shunoros
 Orient Dragon
 Original Sinful Spoils - Snake-Eye
 Orion the Battle King
+orruption Cell "A
 Oscillo Hero
 Oshaleon
 Ostinato
@@ -7461,6 +7520,7 @@ Prompthorn
 Proof of Pruflas
 Prophecy Destroyer
 Protecting Spirit Loagaeth
+Protection of the Elements
 Protective Soul Ailin
 Protector of The Agents - Moon
 Protector of the Throne
@@ -7551,6 +7611,7 @@ Pyrorex the Elemental Lord
 Pyrotech Mech - Shiryu
 Pyroxene Fusion
 Qadshaddoll Keios
+Qebehsenuef, Protection of Horus
 Qlife's End
 Qlimate Change
 Qliphort Carrier
@@ -8440,6 +8501,7 @@ Shining City Nights
 Shining Elf
 Shining Friendship
 Shining Hope Road
+Shining Sarcophagus
 Shining Shaman
 Shining Silver Force
 Shining Star Dragon
@@ -8514,6 +8576,7 @@ Silent Insect
 Silent Magician
 Silent Magician LV4
 Silent Magician LV8
+Silent Magician Zero
 Silent Paladin
 Silent Psychic Wizard
 Silent Strider
@@ -8522,6 +8585,7 @@ Silent Swordsman
 Silent Swordsman LV3
 Silent Swordsman LV5
 Silent Swordsman LV7
+Silent Swordsman Zero
 Silent Timelord
 Silent Wolf Calupo
 Silhouhatte Trick
@@ -8670,14 +8734,15 @@ Snyffus
 Soaring Eagle Above the Searing Land
 Sogen
 Soitsu
+Sol and Luna
 Solar Flare Dragon
 Solar Ray
 Solar Recharge
 Solar Wind Jammer
 Solciere, the Radiant Skysavior
 Soldier Dragons
-Soldier Gaia the Fierce Knight
 Soldier Gaia The Fierce Knight
+Soldier Gaia the Fierce Knight
 Soleil, the Fairy of Skysavior
 Solemn Authority
 Solemn Scolding
@@ -8738,6 +8803,7 @@ Soul Strike
 Soul Taker
 Soul Tiger
 Soul Transition
+Soul Union
 Soundproofed
 Sound the Retreat!
 Southern Stars
@@ -8872,6 +8938,7 @@ Spirit of the Six Samurai
 Spirit of the Winds
 Spirit Reaper
 Spirit Ryu
+Spirit Shield
 Spiritual Beast Apelio
 Spiritual Beast Cannahawk
 Spiritual Beast Pettlephin
@@ -9495,6 +9562,7 @@ That Wacky Magic!
 That Which Feeds on Life
 The 13th Grave
 The A. Forces
+The Abyss Dragon Swordsoul
 The Accumulator
 The Agent of Creation - Venus
 The Agent of Destruction - Venus
@@ -9569,6 +9637,7 @@ The Forgiving Maiden
 The Fountain in the Sky
 The Furious Sea King
 The Gates of Dark World
+The Gaze of Timaeus
 The Gift of Greed
 The Golden Apples
 The Golden Swordsoul
@@ -9763,6 +9832,7 @@ Thunder the Thunder
 Thunder Unicorn
 Tidal, Dragon Ruler of Waterfalls
 Ties of the Brethren
+Ties That Bind
 Tiger Axe
 Tiger Dragon
 Tiki Curse
@@ -9951,6 +10021,7 @@ Tri-Brigade Oath
 Tri-Brigade Rendezvous
 Tri-Brigade Revolt
 Tri-Brigade Rugal the Silver Sheller
+Tri-Brigade Showdown
 Tri-Brigade Shuraig the Ominous Omen
 Tri-Brigade Stand-Off
 Tri-Edge Levia
@@ -10065,6 +10136,7 @@ Turbo Synchron
 Turbo Warrior
 Turnabout
 Turning of the World
+Turn Silence
 Turret Warrior
 Turtle Bird
 Turtle Oath
@@ -10511,6 +10583,7 @@ Wall of Illusion
 Wall of Ivy
 Wall of Thorns
 Wall Shadow
+Walls of the Imperial Tomb
 Wandering Gryphon Rider
 Wandering King Wildwind
 Wandering Mummy
