@@ -552,6 +552,7 @@ Aromaseraphy Rosemary
 Aron, the Ogdoadic King
 Array of Revealing Light
 Arrivalrivals
+Arrive in Light
 Arsenal Bug
 Arsenal Robber
 Arsenal Summoner
@@ -1049,6 +1050,7 @@ Block Spider
 Blood Mefist
 Blood Sucker
 Bloom Diva the Melodious Choir
+Blooming of the Darkest Rose
 Bloom Prima the Melodious Choir
 Blossom Bombardment
 Blowback Dragon
@@ -1154,6 +1156,7 @@ Brain Hazard
 Brain Jacker
 Brain Research Lab
 Brainwashing Beam
+Bramble Rose Dragon
 Branch!
 Branded Banishment
 Branded Beast
@@ -1564,6 +1567,7 @@ Chrysalis Pantail
 Chrysalis Pinny
 Chthonian Alliance
 Chthonian Blast
+Chthonian Emperor Dragon
 Chthonian Polymer
 Chthonian Soldier
 Chu-Ske the Mouse Fighter
@@ -1729,6 +1733,7 @@ Contract with the Abyss
 Contract with the Dark Master
 Contract with the Void
 Contrast HERO Chaos
+Converging Wills Dragon
 Converging Wishes
 Convert Contact
 Coordius the Triphasic Dealmon
@@ -2356,6 +2361,7 @@ Deep Sea Aria
 Deep Sea Artisan
 Deep Sea Diva
 Deepsea Macrotrema
+Deep Sea Prima Donna
 Deep Sea Repetiteur
 Deep Sea Sentry
 Deepsea Shark
@@ -2488,6 +2494,7 @@ Devouring Sarcoughagus
 Dewdark of the Ice Barrier
 Dewloren, Tiger King of the Ice Barrier
 Dharc the Dark Charmer
+Dharc the Dark Charmer, Gloomy
 Dharma-Eye Magician
 Dharma Cannon
 Diabellstar the Black Witch
@@ -2848,6 +2855,7 @@ Dragunity Senatus
 Dragunity Tribus
 Draining Shield
 Dramatic Rescue
+Dramatic Snake-Eye Chase
 Dramaturge of Despia
 Draw Muscle
 Draw Sense: High-Level
@@ -3349,6 +3357,7 @@ Eyearmor
 Eye of the Void
 F.A. Auto Navigator
 F.A. Circuit Grand Prix
+F.A. Dawn Dragster
 F.A. Downforce
 F.A. Hang On Mach
 F.A. Motorhome Transport
@@ -3416,6 +3425,7 @@ Familiar-Possessed - Hiita
 Familiar-Possessed - Lyna
 Familiar-Possessed - Wynn
 Familiar Knight
+Fantastical Dragon Phantazmay
 Fantastic Striborg
 Farewelcome Labrynth
 Farfa, Malebranche of the Burning Abyss
@@ -3538,6 +3548,7 @@ Fish and Kicks
 Fish and Swaps
 Fishborg Archer
 Fishborg Doctor
+Fishborg Harpooner
 Fishborg Launcher
 Fishborg Planter
 Fish Depth Charge
@@ -3747,6 +3758,7 @@ Frost and Flame Dragon
 Frost Blast of the Monarchs
 Frostosaurus
 Frozen Fitzgerald
+Frozen Rose
 Fruits of Kozaky's Studies
 Fuh-Rin-Ka-Zan
 Fuhma Shuriken
@@ -3897,6 +3909,7 @@ Gale Lizard
 Galloping Gaia
 Gamble
 Gambler of Legend
+Gameciel, the Sea Turtle Kaiju
 Gamma The Electromagnet Warrior
 Gamma The Magnet Warrior
 Gamma the Magnet Warrior
@@ -3909,6 +3922,7 @@ Gandora the Dragon of Destruction
 Ganigumo
 Garbage Collector
 Garbage Lord
+Garbage Ogre
 Garlandolf, King of Destruction
 Garma Sword
 Garma Sword Oath
@@ -4239,8 +4253,19 @@ Glory of the Noble Knights
 Glow-Up Bloom
 Glow-Up Bulb
 Glowing Crossbow
+Goblin's Crazy Beast
 Goblin's Secret Remedy
 Goblin Attack Force
+Goblin Biker Big Gabonga
+Goblin Biker Boom Mach
+Goblin Biker Clatter Sploder
+Goblin Biker Dugg Charger
+Goblin Biker Grand Bash
+Goblin Biker Grand Entrance
+Goblin Biker Grand Pileup
+Goblin Biker Grand Stampede
+Goblin Biker Mean Merciless
+Goblin Biker Troika Griare
 Goblin Black Ops
 Goblin Calligrapher
 Goblin Circus
@@ -4838,9 +4863,14 @@ Icejade Acti
 Icejade Aegirine
 Icejade Cenote Enion Cradle
 Icejade Cradle
+Icejade Creation Aegirocassis
 Icejade Creation Kingfisher
+Icejade Curse
 Icejade Erosion
+Icejade Gymir Aegirine
 Icejade Kosmochlor
+Icejade Manifestation
+Icejade Ran Aegirine
 Icejade Tinola
 Icejade Tremora
 Ice Master
@@ -5226,6 +5256,7 @@ Kahkki, Guerilla of Dark World
 Kai-Den Kendo Spirit
 Kaibaman
 Kaibaman the Legend
+Kaiju Capture Mission
 Kaiki the Unity Star
 Kairyu-Shin
 Kaiser Dragon
@@ -5581,6 +5612,7 @@ Lightning Bringer Spirit
 Lightning Chidori
 Lightning Conger
 Lightning Punisher
+Lightning Storm
 Lightning Tricorn
 Lightning Voltcondor
 Lightning Vortex
@@ -5935,6 +5967,7 @@ Majestic Dragon
 Majestic Mech - Goryu
 Majestic Mech - Ohka
 Majestic Mech - Senku
+Majestic Mirage
 Majestic Red Dragon
 Majestic Star Dragon
 Majesty's Pegasus
@@ -5978,8 +6011,8 @@ Malicevorous Spoon
 Mammoth Graveyard
 Mamonaka the Vaylantz United
 Man-Eater Bug
-Man-Eating Black Shark
 Man-eating Black Shark
+Man-Eating Black Shark
 Man-Eating Plant
 Man-Eating Treasure Chest
 Man-Thro' Tro'
@@ -6068,6 +6101,15 @@ Master Pendulum, the Dracoslayer
 Master Tao the Chanter
 Master with Eyes of Blue
 Mataza the Zapper
+Materiactor Annulus
+Materiactor Critical
+Materiactor Exagard
+Materiactor Exareptor
+Materiactor Gigaboros
+Materiactor Gigadra
+Materiactor Meltdown
+Materiactor Meltthrough
+Materiactor Zeptwing
 Mathmech Addition
 Mathmech Billionblade Nayuta
 Mathmech Diameter
@@ -6388,6 +6430,7 @@ Mirror of Yata
 Mirror Resonator
 Mirror Swordknight
 Mirror Wall
+Misairuzame
 Miscellaneousaurus
 Mischief of the Gnomes
 Mischief of the Yokai
@@ -6461,6 +6504,7 @@ Morale Boost
 Moray of Avarice
 Moray of Greed
 Mordschlag
+Morinphen
 Mormolith
 Morpheus, the Dream Mirror Black Knight
 Morpheus, the Dream Mirror White Knight
@@ -6516,6 +6560,7 @@ Mudragon of the Swamp
 Muka Muka
 Muko
 Mulcharmy Fuwalos
+Mulcharmy Meowls
 Mulcharmy Purulia
 Multiple
 Multiple Piece Golem
@@ -6815,6 +6860,7 @@ Nova Spark
 Nova Summoner
 Novox's Prayer
 Nubian Guard
+Number 3: Cicada King
 Number 6: Chronomaly Atlandis
 Number 7: Lucky Straight
 Number 8: Heraldic King Genom-Heritage
@@ -7494,6 +7540,7 @@ Prima Guitarna the Shining Superstar
 Primal Cry
 Primal Dragon, the Primordial
 Primal Howling
+Prima Materiactor
 Primathmech Laplacian
 Prime Material Dragon
 Prime Material Falcon
@@ -7857,6 +7904,7 @@ Red Reign
 Red Resonator
 Red Riser
 Red Rising Dragon
+Red Rose Dragon
 Red Sparrow Summoner
 Red Sprinter
 Red Supernova Dragon
@@ -8085,11 +8133,14 @@ Rope of Life
 Rosaria, the Stately Fallen Angel
 Rose, Warrior of Revenge
 Rose Archer
+Rose Bell of Revelation
 Rose Bud
 Rose Fairy
 Rose Girl
 Rose Lover
 Rose Paladin
+Rose Princess
+Rose Shaman
 Rose Spectre of Dunn
 Rose Tentacles
 Rose Witch
@@ -8541,6 +8592,7 @@ Shock Troops of the Ice Barrier
 Shogi Knight
 Shogi Lance
 Shootingcode Talker
+Shooting Majestic Star Dragon
 Shooting Quasar Dragon
 Shooting Riser Dragon
 Shooting Star
@@ -8614,6 +8666,7 @@ Simultaneous Loss
 Sinful Spoils of Betrayal - Silvera
 Sinful Spoils of Doom - Rciela
 Sinful Spoils of Subversion - Snake-Eye
+Sinful Spoils Struggle
 Single Purchase
 Sinister Seeds
 Sinister Serpent
@@ -8710,6 +8763,7 @@ Smoke Grenade of the Thief
 Snake-Eye Ash
 Snake-Eye Birch
 Snake-Eye Oak
+Snake-Eyes Diabellstar
 Snake-Eyes Flamberge Dragon
 Snake-Eyes Poplar
 Snake Clown
@@ -8741,8 +8795,8 @@ Solar Recharge
 Solar Wind Jammer
 Solciere, the Radiant Skysavior
 Soldier Dragons
-Soldier Gaia The Fierce Knight
 Soldier Gaia the Fierce Knight
+Soldier Gaia The Fierce Knight
 Soleil, the Fairy of Skysavior
 Solemn Authority
 Solemn Scolding
@@ -9014,6 +9068,7 @@ Stardust Charge Warrior
 Stardust Chronicle Spark Dragon
 Stardust Dragon
 Stardust Flash
+Stardust Illumination
 Stardust Phantom
 Stardust Re-Spark
 Stardust Shimmer
@@ -9022,6 +9077,7 @@ Stardust Synchron
 Stardust Trail
 Stardust Warrior
 Stardust Wish
+Stardust Wurm
 Stardust Xiaolong
 Star Eater
 Starfish
@@ -9146,6 +9202,7 @@ Strength of Prophecy
 Strike Ninja
 Strike of the Monarchs
 Striker Dragon
+Strike Slash
 Striping Partner
 Striping Wyvern
 Stronghold Guardian
@@ -10151,6 +10208,7 @@ Twilight Ninja Jogen
 Twilight Ninja Kagen
 Twilight Ninja Nichirin, the Chunin
 Twilight Ninja Shingetsu
+Twilight Rose Black Knight
 Twilight Rose Knight
 Twilight Twin Dragons
 Twin-Barrel Dragon
@@ -10423,6 +10481,7 @@ Vendread Revolution
 Vendread Striges
 Vengeful Servant
 Vengeful Shinobi
+Vengeful Witch
 Vennominaga the Deity of Poisonous Snakes
 Vennominon the King of Poisonous Snakes
 Vennu, Bright Bird of Divinity
@@ -10689,6 +10748,7 @@ White Night Queen
 White Ninja
 White Potan
 White Relic of Dogmatika
+White Rose Cloister
 White Rose Dragon
 White Steed of the Floral Knights
 White Stingray
