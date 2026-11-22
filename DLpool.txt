@@ -4292,8 +4292,8 @@ Gamble
 Gambler of Legend
 Gameciel, the Sea Turtle Kaiju
 Gamma The Electromagnet Warrior
-Gamma the Magnet Warrior
 Gamma The Magnet Warrior
+Gamma the Magnet Warrior
 Gamushara
 Ganbara Knight
 Ganbara Lancer
@@ -6600,8 +6600,8 @@ Mammoth Graveyard
 Mammoth Graveyard (Duel Links Rush Duel)
 Mamonaka the Vaylantz United
 Man-Eater Bug
-Man-eating Black Shark
 Man-Eating Black Shark
+Man-eating Black Shark
 Man-Eating Plant
 Man-Eating Treasure Chest
 Man-Thro' Tro'
