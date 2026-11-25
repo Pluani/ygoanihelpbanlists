@@ -160,6 +160,7 @@ Alector, Sovereign of Birds
 A Legendary Ocean
 Aleirtt, the Ogdoadic Dark
 Aleister the Invoker
+ALERT!
 Alexandrite Dragon
 Alghoul Mazera
 Alich, Malebranche of the Burning Abyss
@@ -781,6 +782,7 @@ Barrel Dragon (Duel Links Rush Duel)
 Barrel Lily
 Barrel Rock
 Barrier Armordillo
+Barrier of the Voiceless Voice
 Barrier Resonator
 Barrier Statue of the Inferno
 Barrier Wave
@@ -1118,6 +1120,7 @@ Blazing Hiita
 Blazing Inpachi
 Bleach Mortar
 Blessed Winds
+Blessing of the Voiceless Voice
 Blessings for Gusto
 Blessings of the Nile
 Blind Destruction
@@ -1876,6 +1879,7 @@ Contact Darkmatter Explorer
 Contact Out
 Contact with Gusto
 Contact with the Aquamirror
+CONTAIN!
 Contaminated Earth
 Continuous Destruction Punch
 Contract Laundering
@@ -3208,6 +3212,7 @@ Dynamic Dino Dynamix (R)
 Dynamic Dino Dynamix [L]
 Dynamic Dino Dynamix [R]
 Dynamo Might
+Dyna Mondo
 Dynas Dorcus the Beetle King
 Dynatherium
 Dystopia the Despondent
@@ -3417,6 +3422,7 @@ Emblem of the Awakening
 Embodiment of Apophis
 Embracing the Rain
 Embryonic Beast
+EMERGENCY!
 Emergency Assistance
 Emergency Provisions
 Emergency Teleport
@@ -3662,12 +3668,14 @@ ExPress Train
 Express Train Trolley Olley
 Exterio's Fang
 Extinction on Schedule
+EXTINGUISH!
 Extox Hydra
 Extra Buck
 Extraceratops
 Extra Gate
 Extra Meat the Special Noodle Ninja
 Extra Net
+Extra Pendulum
 Extra Plorer
 Extra Recovery
 Extra Spice the Elite Noodle Ninja
@@ -5001,6 +5009,7 @@ Hanewata
 Haniwa
 Haniwaffle
 Hannibal Necromancer
+Hapi, Guidance of Horus
 Happy Lover
 Happy Marriage
 Hard-sellin' Goblin
@@ -6236,6 +6245,7 @@ Living Vase
 Lizard Soldier
 Lizard Soldier (Duel Links Rush Duel)
 Ljosalf of the Nordic Alfar
+Lo, the Prayers of the Voiceless Voice
 Load of Darkness
 Localized Tornado
 Lock Cat
@@ -7665,6 +7675,7 @@ Odd-Eyes Lancer Dragon
 Odd-Eyes Meteorburst Dragon
 Odd-Eyes Mirage Dragon
 Odd-Eyes Pendulum Dragon
+Odd-Eyes Pendulumgraph Dragon
 Odd-Eyes Persona Dragon
 Odd-Eyes Phantom Dragon
 Odd-Eyes Raging Dragon
@@ -7958,6 +7969,7 @@ Performapal Fire Mufflerlion
 Performapal Flip Hippo
 Performapal Friendonkey
 Performapal Gatlinghoul
+Performapal Gentrude
 Performapal Gold Fang
 Performapal Gongato
 Performapal Gumgumouton
@@ -7968,18 +7980,22 @@ Performapal Hip Hippo
 Performapal Inflater Tapir
 Performapal Kaleidoscorp
 Performapal King Bear
+Performapal Ladyange
 Performapal Laugh Maker
 Performapal Lebellman
 Performapal Life Swordsman
 Performapal Lizardraw
 Performapal Longphone Bull
 Performapal Momoncarpet
+Performapal Odd-Eyes Butler
 Performapal Odd-Eyes Dissolver
 Performapal Odd-Eyes Light Phoenix
 Performapal Odd-Eyes Metal Claw
 Performapal Odd-Eyes Minitaurus
+Performapal Odd-Eyes Seer
 Performapal Odd-Eyes Synchron
 Performapal Odd-Eyes Unicorn
+Performapal Odd-Eyes Valet
 Performapal Parrotrio
 Performapal Partnaga
 Performapal Pendulum Sorcerer
@@ -8244,6 +8260,7 @@ Prank-Kids Plan
 Prank-Kids Pranks
 Prank-Kids Rocket Ride
 Prank-Kids Token
+Prayers of the Voiceless Voice
 Pre-Preparation of Rites
 Precious Cards from Beyond
 Predaplanet
@@ -8467,6 +8484,7 @@ Ra's Disciple
 Rabid Horseman
 Rabidragon
 Radian, the Multidimensional Kaiju
+Radiance of the Voiceless Voice
 Radiant Jeral
 Radiant Mirror Force
 Radiant Spirit
@@ -8706,6 +8724,7 @@ Regretful Rebirth
 Regulus
 Reign-Beaux, Overlord of Dark World
 Reincarnation of the Seventh Emperors
+REINFORCE!
 Reinforced Human Psychic Borg
 Reinforced Space
 Reinforcement of the Army
@@ -8750,6 +8769,16 @@ Reptilianne Token
 Reptilianne Vaskii
 Reptilianne Viper
 Requesting 9
+RESCUE!
+Rescue-ACE Air Lifter
+Rescue-ACE Fire Attacker
+Rescue-ACE Fire Engine
+Rescue-ACE HQ
+Rescue-ACE Hydrant
+Rescue-ACE Impulse
+Rescue-ACE Monitor
+Rescue-ACE Preventer
+Rescue-ACE Turbulence
 Rescue Cat
 Rescue Ferret
 Rescue Hamster
@@ -9039,6 +9068,8 @@ Sacred Tower in Crisis
 Sacred Tree Beast, Hyperyton
 Sadion, the Timelord
 Sael, the Knight of Skysavior
+Saffira, Divine Dragon of the Voiceless Voice
+Saffira, Dragon Queen of the Voiceless Voice
 Saffira, Queen of Dragons
 Saga of the Dragon Emperor
 Sage's Stone
@@ -9135,6 +9166,7 @@ Satellite Synchron
 Satellite Warrior
 Saturnius' Orb
 Sauge de Fleur
+Sauravis, Dragon Sage of the Voiceless Voice
 Sauravis, the Ancient and Ascended
 Sauropod Brachion
 Savage Colosseum
@@ -9571,6 +9603,7 @@ Skull Dice
 Skull Dog Marron
 Skull Flame
 Skull Guardian
+Skull Guardian, Protector of the Voiceless Voice
 Skull Invitation
 Skull Knight
 Skull Knight #2
