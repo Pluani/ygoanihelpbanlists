@@ -4300,8 +4300,8 @@ Gamble
 Gambler of Legend
 Gameciel, the Sea Turtle Kaiju
 Gamma The Electromagnet Warrior
-Gamma The Magnet Warrior
 Gamma the Magnet Warrior
+Gamma The Magnet Warrior
 Gamushara
 Ganbara Knight
 Ganbara Lancer
@@ -4527,8 +4527,8 @@ Giftarist
 Gift Exchange
 Gift Fiend Token
 Gift of the Martyr
-Gift of The Mystical Elf
 Gift of the Mystical Elf
+Gift of The Mystical Elf
 Giga-Tech Wolf
 Giga-Tech Wolf (Duel Links Rush Duel)
 Giga Gagagigo
@@ -6610,8 +6610,8 @@ Mammoth Graveyard
 Mammoth Graveyard (Duel Links Rush Duel)
 Mamonaka the Vaylantz United
 Man-Eater Bug
-Man-Eating Black Shark
 Man-eating Black Shark
+Man-Eating Black Shark
 Man-Eating Plant
 Man-Eating Treasure Chest
 Man-Thro' Tro'
@@ -9706,8 +9706,8 @@ Solar Recharge
 Solar Wind Jammer
 Solciere, the Radiant Skysavior
 Soldier Dragons
-Soldier Gaia The Fierce Knight
 Soldier Gaia the Fierce Knight
+Soldier Gaia The Fierce Knight
 Soleil, the Fairy of Skysavior
 Solemn Authority
 Solemn Scolding
